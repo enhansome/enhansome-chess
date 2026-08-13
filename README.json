@@ -1,0 +1,373 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "English",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-11-18T18:12:45Z",
+            "owner": "mbiesiad",
+            "repo": "awesome-chess",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Polish",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-11-18T18:12:45Z",
+            "owner": "mbiesiad",
+            "repo": "awesome-chess",
+            "stars": 59
+          }
+        }
+      ],
+      "title": "Translations"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Stockfish Chess Repo",
+          "description": "UCI chess engine. Repo on GitHub.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-10T14:12:26Z",
+            "owner": "official-stockfish",
+            "repo": "Stockfish",
+            "stars": 16314
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Leela Chess Zero",
+          "description": "A free, open-source, and neural network-based chess engine and distributed computing project.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-05-05T22:05:03Z",
+            "owner": "LeelaChessZero",
+            "repo": "lc0",
+            "stars": 3183
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Caissa",
+          "description": "A strong, UCI command-line chess engine, written from scratch in C++ in development since early 2021. Optimized for regular chess, FRC (Fischer Random Chess) and DFRC (Double Fischer Random Chess).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-09T16:16:33Z",
+            "owner": "Witek902",
+            "repo": "Caissa",
+            "stars": 109
+          }
+        }
+      ],
+      "title": "Chess engines"
+    },
+    {
+      "description": "International:",
+      "items": [],
+      "title": "Organizations"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "chessboardjs",
+          "description": "JavaScript chessboard, repo on GitHub.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-04-17T16:24:05Z",
+            "owner": "oakmac",
+            "repo": "chessboardjs",
+            "stars": 2132
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jchess",
+          "description": "A jQuery-based JavaScript library for parsing and displaying chess games, repo on GitHub.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-07T16:32:09Z",
+            "owner": "bmarini",
+            "repo": "jchess",
+            "stars": 83
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chessboard-js",
+          "description": "Repo on GitHub, responsive mobile-first JavaScript chessboard library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-08-13T03:28:15Z",
+            "owner": "caustique",
+            "repo": "chessboard-js",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chess-board",
+          "description": "A web component for displaying chess positions, repo on GitHub.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-13T23:48:07Z",
+            "owner": "laat",
+            "repo": "chess-board",
+            "stars": 21
+          }
+        }
+      ],
+      "title": "Chess boards"
+    },
+    {
+      "description": "Repos",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Lila",
+          "description": "A free online chess game server focused on realtime gameplay and ease of use.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-08-13T04:40:50Z",
+            "owner": "lichess-org",
+            "repo": "lila",
+            "stars": 18592
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "python-chess",
+          "description": "A chess library for Python, with move generation and validation, PGN parsing and writing, Polyglot opening book reading, Gaviota tablebase probing, Syzygy tablebase probing, and UCI/XBoard engine communication.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-12T14:07:46Z",
+            "owner": "niklasf",
+            "repo": "python-chess",
+            "stars": 2860
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chess Alpha Zero",
+          "description": "Chess reinforcement learning by AlphaGo Zero methods.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-03-24T22:22:17Z",
+            "owner": "Zeta36",
+            "repo": "chess-alpha-zero",
+            "stars": 2224
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lichobile",
+          "description": "Lichess.org mobile application.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2026-02-15T22:57:49Z",
+            "owner": "lichess-org",
+            "repo": "lichobile",
+            "stars": 2183
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Game Server",
+          "description": "Distributed Java game server, including cluster management server, gateway server, hall server, game logic server, background monitoring server and a running web version of fishing. State machine, behavior tree, A* pathfinding, navigation mesh and other AI tools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-12-19T22:49:29Z",
+            "owner": "jzyong",
+            "repo": "game-server",
+            "stars": 1226
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PyChess",
+          "description": "A chess client for Linux/Windows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T12:25:23Z",
+            "owner": "pychess",
+            "repo": "pychess",
+            "stars": 807
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tensorflow_chessbot",
+          "description": "Predict chessboard FEN layouts from images using TensorFlow.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-07-25T18:32:02Z",
+            "owner": "Elucidation",
+            "repo": "tensorflow_chessbot",
+            "stars": 567
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Command Line Chess",
+          "description": "A Python program to play chess against an AI in the terminal.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-13T19:15:36Z",
+            "owner": "marcusbuffett",
+            "repo": "command-line-chess",
+            "stars": 534
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chess Encryption",
+          "description": "Project about encrypting files into large sets of Chess games stored in PGN format.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-13T19:35:30Z",
+            "owner": "WintrCat",
+            "repo": "chessencryption",
+            "stars": 446
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WintrChess",
+          "description": "A website that analyses Chess games with move classifications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-24T00:11:23Z",
+            "owner": "WintrCat",
+            "repo": "wintrchess",
+            "stars": 237
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FlutterChess",
+          "description": "A concept chess app for Flutter.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2018-09-05T12:53:23Z",
+            "owner": "d3xvn",
+            "repo": "FlutterChess",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "angular-chess",
+          "description": "Chess directive for AngularJS.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2017-05-20T12:07:30Z",
+            "owner": "theborakompanioni",
+            "repo": "angular-chess",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "angular-chessboard",
+          "description": "Chessboard directive for AngularJS.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2016-01-11T22:43:03Z",
+            "owner": "theborakompanioni",
+            "repo": "angular-chessboard",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AndroidChessClock",
+          "description": "Simple chess clock for Android.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2019-02-04T05:42:30Z",
+            "owner": "johnwilde",
+            "repo": "AndroidChessClock",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Projects"
+    },
+    {
+      "description": "Warmly welcome! Kindly go through Contribution Guidelines first.",
+      "items": [],
+      "title": "Contributing"
+    },
+    {
+      "description": "See Code of Conduct.",
+      "items": [],
+      "title": "Code of Conduct"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T09:49:27.724Z",
+    "original_repository": "mbiesiad/awesome-chess",
+    "original_repository_sha": "aa87b26bb0e3de693e9e7522282073ad618abfc4",
+    "enhanced_repository": "enhansome/enhansome-chess",
+    "enhanced_repository_description": null,
+    "title": "Awesome Chess with stars"
+  }
+}
