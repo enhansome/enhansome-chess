@@ -48,7 +48,7 @@
             "last_commit": "2026-08-10T14:12:26Z",
             "owner": "official-stockfish",
             "repo": "Stockfish",
-            "stars": 16335
+            "stars": 16340
           }
         },
         {
@@ -160,7 +160,7 @@
           "repo_info": {
             "archived": false,
             "language": "Scala",
-            "last_commit": "2026-08-16T08:58:57Z",
+            "last_commit": "2026-08-17T08:38:13Z",
             "owner": "lichess-org",
             "repo": "lila",
             "stars": 18632
@@ -177,7 +177,7 @@
             "last_commit": "2026-07-12T14:07:46Z",
             "owner": "niklasf",
             "repo": "python-chess",
-            "stars": 2860
+            "stars": 2861
           }
         },
         {
@@ -289,7 +289,7 @@
             "last_commit": "2026-04-24T00:11:23Z",
             "owner": "WintrCat",
             "repo": "wintrchess",
-            "stars": 238
+            "stars": 237
           }
         },
         {
@@ -363,7 +363,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T09:12:01.765Z",
+    "last_updated": "2026-08-17T09:25:27.826Z",
     "original_repository": "mbiesiad/awesome-chess",
     "original_repository_sha": "aa87b26bb0e3de693e9e7522282073ad618abfc4",
     "enhanced_repository": "enhansome/enhansome-chess",
