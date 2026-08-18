@@ -48,7 +48,7 @@
             "last_commit": "2026-08-10T14:12:26Z",
             "owner": "official-stockfish",
             "repo": "Stockfish",
-            "stars": 16340
+            "stars": 16345
           }
         },
         {
@@ -160,10 +160,10 @@
           "repo_info": {
             "archived": false,
             "language": "Scala",
-            "last_commit": "2026-08-17T08:38:13Z",
+            "last_commit": "2026-08-18T08:23:35Z",
             "owner": "lichess-org",
             "repo": "lila",
-            "stars": 18632
+            "stars": 18635
           }
         },
         {
@@ -177,7 +177,7 @@
             "last_commit": "2026-07-12T14:07:46Z",
             "owner": "niklasf",
             "repo": "python-chess",
-            "stars": 2861
+            "stars": 2863
           }
         },
         {
@@ -205,7 +205,7 @@
             "last_commit": "2026-02-15T22:57:49Z",
             "owner": "lichess-org",
             "repo": "lichobile",
-            "stars": 2181
+            "stars": 2182
           }
         },
         {
@@ -219,7 +219,7 @@
             "last_commit": "2025-12-19T22:49:29Z",
             "owner": "jzyong",
             "repo": "game-server",
-            "stars": 1226
+            "stars": 1227
           }
         },
         {
@@ -230,10 +230,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T13:18:30Z",
+            "last_commit": "2026-08-17T12:14:24Z",
             "owner": "pychess",
             "repo": "pychess",
-            "stars": 807
+            "stars": 808
           }
         },
         {
@@ -289,7 +289,7 @@
             "last_commit": "2026-04-24T00:11:23Z",
             "owner": "WintrCat",
             "repo": "wintrchess",
-            "stars": 237
+            "stars": 238
           }
         },
         {
@@ -363,7 +363,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T09:25:27.826Z",
+    "last_updated": "2026-08-18T09:16:41.900Z",
     "original_repository": "mbiesiad/awesome-chess",
     "original_repository_sha": "aa87b26bb0e3de693e9e7522282073ad618abfc4",
     "enhanced_repository": "enhansome/enhansome-chess",
