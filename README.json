@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 258513882,
             "language": null,
             "last_commit": "2025-11-18T18:12:45Z",
             "owner": "mbiesiad",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 258513882,
             "language": null,
             "last_commit": "2025-11-18T18:12:45Z",
             "owner": "mbiesiad",
@@ -35,7 +37,7 @@
       "title": "Translations"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -44,11 +46,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20976138,
             "language": "C++",
             "last_commit": "2026-08-10T14:12:26Z",
             "owner": "official-stockfish",
             "repo": "Stockfish",
-            "stars": 16345
+            "stars": 16355
           }
         },
         {
@@ -58,6 +61,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 135489692,
             "language": "C++",
             "last_commit": "2026-05-05T22:05:03Z",
             "owner": "LeelaChessZero",
@@ -72,6 +76,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 350500044,
             "language": "C++",
             "last_commit": "2026-08-09T16:16:33Z",
             "owner": "Witek902",
@@ -83,12 +88,7 @@
       "title": "Chess engines"
     },
     {
-      "description": "International:",
-      "items": [],
-      "title": "Organizations"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -97,6 +97,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10411524,
             "language": "JavaScript",
             "last_commit": "2024-04-17T16:24:05Z",
             "owner": "oakmac",
@@ -111,6 +112,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34124,
             "language": "TypeScript",
             "last_commit": "2026-04-07T16:32:09Z",
             "owner": "bmarini",
@@ -125,6 +127,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19112561,
             "language": "JavaScript",
             "last_commit": "2018-08-13T03:28:15Z",
             "owner": "caustique",
@@ -139,6 +142,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17352988,
             "language": "TypeScript",
             "last_commit": "2026-04-13T23:48:07Z",
             "owner": "laat",
@@ -159,11 +163,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3507455,
             "language": "Scala",
-            "last_commit": "2026-08-18T08:23:35Z",
+            "last_commit": "2026-08-19T09:15:30Z",
             "owner": "lichess-org",
             "repo": "lila",
-            "stars": 18635
+            "stars": 18642
           }
         },
         {
@@ -173,11 +178,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6054289,
             "language": "Python",
             "last_commit": "2026-07-12T14:07:46Z",
             "owner": "niklasf",
             "repo": "python-chess",
-            "stars": 2863
+            "stars": 2864
           }
         },
         {
@@ -187,11 +193,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 111276294,
             "language": "Jupyter Notebook",
             "last_commit": "2023-03-24T22:22:17Z",
             "owner": "Zeta36",
             "repo": "chess-alpha-zero",
-            "stars": 2224
+            "stars": 2223
           }
         },
         {
@@ -201,6 +208,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 19611854,
             "language": "TypeScript",
             "last_commit": "2026-02-15T22:57:49Z",
             "owner": "lichess-org",
@@ -215,6 +223,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 100464616,
             "language": "Java",
             "last_commit": "2025-12-19T22:49:29Z",
             "owner": "jzyong",
@@ -229,8 +238,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 30212992,
             "language": "Python",
-            "last_commit": "2026-08-17T12:14:24Z",
+            "last_commit": "2026-08-19T07:14:57Z",
             "owner": "pychess",
             "repo": "pychess",
             "stars": 808
@@ -243,6 +253,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51289875,
             "language": "Jupyter Notebook",
             "last_commit": "2023-07-25T18:32:02Z",
             "owner": "Elucidation",
@@ -257,6 +268,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 25874460,
             "language": "Python",
             "last_commit": "2026-04-13T19:15:36Z",
             "owner": "marcusbuffett",
@@ -271,6 +283,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 853013502,
             "language": "Python",
             "last_commit": "2026-01-13T19:35:30Z",
             "owner": "WintrCat",
@@ -285,11 +298,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1029401335,
             "language": "TypeScript",
             "last_commit": "2026-04-24T00:11:23Z",
             "owner": "WintrCat",
             "repo": "wintrchess",
-            "stars": 238
+            "stars": 239
           }
         },
         {
@@ -299,6 +313,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 147517353,
             "language": "Dart",
             "last_commit": "2018-09-05T12:53:23Z",
             "owner": "d3xvn",
@@ -313,6 +328,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 16888728,
             "language": "JavaScript",
             "last_commit": "2017-05-20T12:07:30Z",
             "owner": "theborakompanioni",
@@ -327,6 +343,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 16885248,
             "language": "JavaScript",
             "last_commit": "2016-01-11T22:43:03Z",
             "owner": "theborakompanioni",
@@ -341,6 +358,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1985185,
             "language": "Kotlin",
             "last_commit": "2019-02-04T05:42:30Z",
             "owner": "johnwilde",
@@ -350,20 +368,10 @@
         }
       ],
       "title": "Projects"
-    },
-    {
-      "description": "Warmly welcome! Kindly go through Contribution Guidelines first.",
-      "items": [],
-      "title": "Contributing"
-    },
-    {
-      "description": "See Code of Conduct.",
-      "items": [],
-      "title": "Code of Conduct"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T09:16:41.900Z",
+    "last_updated": "2026-08-19T09:17:40.748Z",
     "original_repository": "mbiesiad/awesome-chess",
     "original_repository_sha": "aa87b26bb0e3de693e9e7522282073ad618abfc4",
     "enhanced_repository": "enhansome/enhansome-chess",
