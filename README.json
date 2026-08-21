@@ -51,7 +51,7 @@
             "last_commit": "2026-08-20T06:53:23Z",
             "owner": "official-stockfish",
             "repo": "Stockfish",
-            "stars": 16362
+            "stars": 16369
           }
         },
         {
@@ -78,7 +78,7 @@
             "archived": false,
             "id": 350500044,
             "language": "C++",
-            "last_commit": "2026-08-09T16:16:33Z",
+            "last_commit": "2026-08-20T21:02:34Z",
             "owner": "Witek902",
             "repo": "Caissa",
             "stars": 109
@@ -165,10 +165,10 @@
             "archived": false,
             "id": 3507455,
             "language": "Scala",
-            "last_commit": "2026-08-20T09:01:21Z",
+            "last_commit": "2026-08-21T06:50:34Z",
             "owner": "lichess-org",
             "repo": "lila",
-            "stars": 18645
+            "stars": 18649
           }
         },
         {
@@ -240,7 +240,7 @@
             "archived": false,
             "id": 30212992,
             "language": "Python",
-            "last_commit": "2026-08-19T07:14:57Z",
+            "last_commit": "2026-08-20T21:27:02Z",
             "owner": "pychess",
             "repo": "pychess",
             "stars": 807
@@ -303,7 +303,7 @@
             "last_commit": "2026-04-24T00:11:23Z",
             "owner": "WintrCat",
             "repo": "wintrchess",
-            "stars": 239
+            "stars": 240
           }
         },
         {
@@ -371,7 +371,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T09:18:43.801Z",
+    "last_updated": "2026-08-21T09:20:46.851Z",
     "original_repository": "mbiesiad/awesome-chess",
     "original_repository_id": 258513882,
     "original_repository_sha": "aa87b26bb0e3de693e9e7522282073ad618abfc4",
