@@ -38,9 +38,9 @@ A curated list of assets available on the Internet related to the Western chess.
 
 ## Chess engines
 
-* [Stockfish Chess Repo](https://github.com/official-stockfish/Stockfish) ⭐ 16,375 | 🐛 46 | 🌐 C++ | 📅 2026-08-20 - UCI chess engine. Repo on GitHub.
-* [Leela Chess Zero](https://github.com/LeelaChessZero/lc0) ⭐ 3,190 | 🐛 255 | 🌐 C++ | 📅 2026-05-05 - A free, open-source, and neural network-based chess engine and distributed computing project.
-* [Caissa](https://github.com/Witek902/Caissa) ⭐ 109 | 🐛 8 | 🌐 C++ | 📅 2026-08-21 - A strong, UCI command-line chess engine, written from scratch in C++ in development since early 2021. Optimized for regular chess, FRC (Fischer Random Chess) and DFRC (Double Fischer Random Chess).
+* [Stockfish Chess Repo](https://github.com/official-stockfish/Stockfish) ⭐ 16,387 | 🐛 47 | 🌐 C++ | 📅 2026-08-20 - UCI chess engine. Repo on GitHub.
+* [Leela Chess Zero](https://github.com/LeelaChessZero/lc0) ⭐ 3,191 | 🐛 255 | 🌐 C++ | 📅 2026-05-05 - A free, open-source, and neural network-based chess engine and distributed computing project.
+* [Caissa](https://github.com/Witek902/Caissa) ⭐ 109 | 🐛 8 | 🌐 C++ | 📅 2026-08-22 - A strong, UCI command-line chess engine, written from scratch in C++ in development since early 2021. Optimized for regular chess, FRC (Fischer Random Chess) and DFRC (Double Fischer Random Chess).
 * [Stockfish Chess](https://stockfishchess.org/) - Strong open source chess engine.
 * [Fritz](https://fritz.chessbase.com/) - A German chess program originally developed for ChessBase by Frans Morsch based on his Quest program, ported to DOS, and then Windows by Mathias Feist.
 * [GNU Chess](http://www.gnu.org/software/chess/) - A free software chess engine which plays a full game of chess against a human being or other computer program. The goal of GNU Chess is to serve as a basis for research. It has been used in numerous research contexts.
@@ -99,16 +99,16 @@ International:
 
 Repos
 
-* [Lila](https://github.com/ornicar/lila) ⭐ 18,654 | 🐛 1,280 | 🌐 Scala | 📅 2026-08-22 - A free online chess game server focused on realtime gameplay and ease of use.
-* [python-chess](https://github.com/niklasf/python-chess) ⭐ 2,864 | 🐛 48 | 🌐 Python | 📅 2026-07-12 - A chess library for Python, with move generation and validation, PGN parsing and writing, Polyglot opening book reading, Gaviota tablebase probing, Syzygy tablebase probing, and UCI/XBoard engine communication.
+* [Lila](https://github.com/ornicar/lila) ⭐ 18,656 | 🐛 1,277 | 🌐 Scala | 📅 2026-08-23 - A free online chess game server focused on realtime gameplay and ease of use.
+* [python-chess](https://github.com/niklasf/python-chess) ⭐ 2,864 | 🐛 49 | 🌐 Python | 📅 2026-08-22 - A chess library for Python, with move generation and validation, PGN parsing and writing, Polyglot opening book reading, Gaviota tablebase probing, Syzygy tablebase probing, and UCI/XBoard engine communication.
 * [Chess Alpha Zero](https://github.com/Zeta36/chess-alpha-zero) ⭐ 2,223 | 🐛 64 | 🌐 Jupyter Notebook | 📅 2023-03-24 - Chess reinforcement learning by AlphaGo Zero methods.
 * [Lichobile](https://github.com/veloce/lichobile) ⚠️ Archived - Lichess.org mobile application.
 * [Game Server](https://github.com/jzyong/game-server) ⭐ 1,227 | 🐛 40 | 🌐 Java | 📅 2025-12-19 - Distributed Java game server, including cluster management server, gateway server, hall server, game logic server, background monitoring server and a running web version of fishing. State machine, behavior tree, A\* pathfinding, navigation mesh and other AI tools.
 * [PyChess](https://github.com/pychess/pychess) ⭐ 807 | 🐛 103 | 🌐 Python | 📅 2026-08-20 - A chess client for Linux/Windows.
 * [Tensorflow\_chessbot](https://github.com/Elucidation/tensorflow_chessbot) ⭐ 567 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2023-07-25 - Predict chessboard FEN layouts from images using TensorFlow.
-* [Command Line Chess](https://github.com/marcusbuffett/command-line-chess) ⭐ 534 | 🐛 13 | 🌐 Python | 📅 2026-04-13 - A Python program to play chess against an AI in the terminal.
+* [Command Line Chess](https://github.com/marcusbuffett/command-line-chess) ⭐ 533 | 🐛 13 | 🌐 Python | 📅 2026-04-13 - A Python program to play chess against an AI in the terminal.
 * [Chess Encryption](https://github.com/WintrCat/chessencryption) ⭐ 445 | 🐛 4 | 🌐 Python | 📅 2026-01-13 - Project about encrypting files into large sets of Chess games stored in PGN format.
-* [WintrChess](https://github.com/WintrCat/wintrchess) ⭐ 240 | 🐛 29 | 🌐 TypeScript | 📅 2026-04-24 - A website that analyses Chess games with move classifications.
+* [WintrChess](https://github.com/WintrCat/wintrchess) ⭐ 241 | 🐛 29 | 🌐 TypeScript | 📅 2026-04-24 - A website that analyses Chess games with move classifications.
 * [FlutterChess](https://github.com/deven98/FlutterChess) ⭐ 52 | 🐛 2 | 🌐 Dart | 📅 2018-09-05 - A concept chess app for Flutter.
 * [angular-chess](https://github.com/theborakompanioni/angular-chess) ⚠️ Archived - Chess directive for AngularJS.
 * [angular-chessboard](https://github.com/theborakompanioni/angular-chessboard) ⚠️ Archived - Chessboard directive for AngularJS.
@@ -251,4 +251,4 @@ See [Code of Conduct](CODE-OF-CONDUCT.md).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._

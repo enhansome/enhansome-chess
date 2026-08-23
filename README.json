@@ -51,7 +51,7 @@
             "last_commit": "2026-08-20T06:53:23Z",
             "owner": "official-stockfish",
             "repo": "Stockfish",
-            "stars": 16375
+            "stars": 16387
           }
         },
         {
@@ -66,7 +66,7 @@
             "last_commit": "2026-05-05T22:05:03Z",
             "owner": "LeelaChessZero",
             "repo": "lc0",
-            "stars": 3190
+            "stars": 3191
           }
         },
         {
@@ -78,7 +78,7 @@
             "archived": false,
             "id": 350500044,
             "language": "C++",
-            "last_commit": "2026-08-21T22:50:17Z",
+            "last_commit": "2026-08-22T18:19:37Z",
             "owner": "Witek902",
             "repo": "Caissa",
             "stars": 109
@@ -165,10 +165,10 @@
             "archived": false,
             "id": 3507455,
             "language": "Scala",
-            "last_commit": "2026-08-22T08:41:17Z",
+            "last_commit": "2026-08-23T08:39:13Z",
             "owner": "lichess-org",
             "repo": "lila",
-            "stars": 18654
+            "stars": 18656
           }
         },
         {
@@ -180,7 +180,7 @@
             "archived": false,
             "id": 6054289,
             "language": "Python",
-            "last_commit": "2026-07-12T14:07:46Z",
+            "last_commit": "2026-08-22T13:17:47Z",
             "owner": "niklasf",
             "repo": "python-chess",
             "stars": 2864
@@ -273,7 +273,7 @@
             "last_commit": "2026-04-13T19:15:36Z",
             "owner": "marcusbuffett",
             "repo": "command-line-chess",
-            "stars": 534
+            "stars": 533
           }
         },
         {
@@ -303,7 +303,7 @@
             "last_commit": "2026-04-24T00:11:23Z",
             "owner": "WintrCat",
             "repo": "wintrchess",
-            "stars": 240
+            "stars": 241
           }
         },
         {
@@ -371,7 +371,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T09:11:58.060Z",
+    "last_updated": "2026-08-23T09:12:20.801Z",
     "original_repository": "mbiesiad/awesome-chess",
     "original_repository_id": 258513882,
     "original_repository_sha": "aa87b26bb0e3de693e9e7522282073ad618abfc4",
