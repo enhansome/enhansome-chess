@@ -51,7 +51,7 @@
             "last_commit": "2026-08-20T06:53:23Z",
             "owner": "official-stockfish",
             "repo": "Stockfish",
-            "stars": 16395
+            "stars": 16397
           }
         },
         {
@@ -66,7 +66,7 @@
             "last_commit": "2026-05-05T22:05:03Z",
             "owner": "LeelaChessZero",
             "repo": "lc0",
-            "stars": 3192
+            "stars": 3193
           }
         },
         {
@@ -154,6 +154,48 @@
       "title": "Chess boards"
     },
     {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Chess-Clock",
+          "description": "Well-prepared chess timer by Tuhaj which helps during play of board games like chess or scrabble.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 15671007,
+            "language": "JavaScript",
+            "last_commit": "2014-02-19T11:55:22Z",
+            "owner": "Tuhaj",
+            "repo": "Chess-Clock",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Chess clocks"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "chess.js",
+          "description": "A JavaScript chess library for chess move generation/validation, piece placement/movement, and check/checkmate/draw detection.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 98154,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T11:07:54Z",
+            "owner": "jhlywa",
+            "repo": "chess.js",
+            "stars": 4387
+          }
+        }
+      ],
+      "title": "Move's validations"
+    },
+    {
       "description": "Repos",
       "items": [
         {
@@ -165,10 +207,10 @@
             "archived": false,
             "id": 3507455,
             "language": "Scala",
-            "last_commit": "2026-08-24T06:37:14Z",
+            "last_commit": "2026-08-24T13:20:11Z",
             "owner": "lichess-org",
             "repo": "lila",
-            "stars": 18661
+            "stars": 18663
           }
         },
         {
@@ -371,7 +413,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T09:31:42.750Z",
+    "last_updated": "2026-08-24T14:47:32.410Z",
     "original_repository": "mbiesiad/awesome-chess",
     "original_repository_id": 258513882,
     "original_repository_sha": "aa87b26bb0e3de693e9e7522282073ad618abfc4",
