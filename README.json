@@ -51,7 +51,7 @@
             "last_commit": "2026-08-20T06:53:23Z",
             "owner": "official-stockfish",
             "repo": "Stockfish",
-            "stars": 16387
+            "stars": 16395
           }
         },
         {
@@ -66,7 +66,7 @@
             "last_commit": "2026-05-05T22:05:03Z",
             "owner": "LeelaChessZero",
             "repo": "lc0",
-            "stars": 3191
+            "stars": 3192
           }
         },
         {
@@ -78,7 +78,7 @@
             "archived": false,
             "id": 350500044,
             "language": "C++",
-            "last_commit": "2026-08-22T18:19:37Z",
+            "last_commit": "2026-08-23T23:42:58Z",
             "owner": "Witek902",
             "repo": "Caissa",
             "stars": 109
@@ -165,10 +165,10 @@
             "archived": false,
             "id": 3507455,
             "language": "Scala",
-            "last_commit": "2026-08-23T08:39:13Z",
+            "last_commit": "2026-08-24T06:37:14Z",
             "owner": "lichess-org",
             "repo": "lila",
-            "stars": 18656
+            "stars": 18661
           }
         },
         {
@@ -198,7 +198,7 @@
             "last_commit": "2023-03-24T22:22:17Z",
             "owner": "Zeta36",
             "repo": "chess-alpha-zero",
-            "stars": 2223
+            "stars": 2224
           }
         },
         {
@@ -371,7 +371,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T09:12:20.801Z",
+    "last_updated": "2026-08-24T09:31:42.750Z",
     "original_repository": "mbiesiad/awesome-chess",
     "original_repository_id": 258513882,
     "original_repository_sha": "aa87b26bb0e3de693e9e7522282073ad618abfc4",
