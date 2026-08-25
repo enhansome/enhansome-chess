@@ -51,7 +51,7 @@
             "last_commit": "2026-08-24T18:31:58Z",
             "owner": "official-stockfish",
             "repo": "Stockfish",
-            "stars": 16399
+            "stars": 16400
           }
         },
         {
@@ -207,7 +207,7 @@
             "archived": false,
             "id": 3507455,
             "language": "Scala",
-            "last_commit": "2026-08-25T06:28:19Z",
+            "last_commit": "2026-08-25T06:50:37Z",
             "owner": "lichess-org",
             "repo": "lila",
             "stars": 18671
@@ -413,7 +413,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:38:17.484Z",
+    "last_updated": "2026-08-25T09:20:49.274Z",
     "original_repository": "mbiesiad/awesome-chess",
     "original_repository_id": 258513882,
     "original_repository_sha": "aa87b26bb0e3de693e9e7522282073ad618abfc4",
