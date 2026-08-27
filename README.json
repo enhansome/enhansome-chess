@@ -51,7 +51,7 @@
             "last_commit": "2026-08-25T17:28:02Z",
             "owner": "official-stockfish",
             "repo": "Stockfish",
-            "stars": 16411
+            "stars": 16421
           }
         },
         {
@@ -66,7 +66,7 @@
             "last_commit": "2026-05-05T22:05:03Z",
             "owner": "LeelaChessZero",
             "repo": "lc0",
-            "stars": 3193
+            "stars": 3194
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2026-08-25T22:37:54Z",
             "owner": "Witek902",
             "repo": "Caissa",
-            "stars": 109
+            "stars": 110
           }
         }
       ],
@@ -207,10 +207,10 @@
             "archived": false,
             "id": 3507455,
             "language": "Scala",
-            "last_commit": "2026-08-26T04:18:33Z",
+            "last_commit": "2026-08-27T10:23:36Z",
             "owner": "lichess-org",
             "repo": "lila",
-            "stars": 18674
+            "stars": 18677
           }
         },
         {
@@ -270,7 +270,7 @@
             "last_commit": "2025-12-19T22:49:29Z",
             "owner": "jzyong",
             "repo": "game-server",
-            "stars": 1227
+            "stars": 1228
           }
         },
         {
@@ -345,7 +345,7 @@
             "last_commit": "2026-04-24T00:11:23Z",
             "owner": "WintrCat",
             "repo": "wintrchess",
-            "stars": 242
+            "stars": 244
           }
         },
         {
@@ -413,9 +413,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T09:26:09.752Z",
-    "original_repository": "mbiesiad/awesome-chess",
-    "original_repository_id": 258513882,
+    "last_updated": "2026-08-27T11:30:18.986Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 258513882,
+      "language": null,
+      "last_commit": "2025-11-18T18:12:45Z",
+      "owner": "mbiesiad",
+      "repo": "awesome-chess",
+      "stars": 59
+    },
     "original_repository_sha": "aa87b26bb0e3de693e9e7522282073ad618abfc4",
     "enhanced_repository": "enhansome/enhansome-chess",
     "enhanced_repository_description": null,
