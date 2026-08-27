@@ -38,7 +38,7 @@ A curated list of assets available on the Internet related to the Western chess.
 
 ## Chess engines
 
-* [Stockfish Chess Repo](https://github.com/official-stockfish/Stockfish) ⭐ 16,421 | 🐛 42 | 🌐 C++ | 📅 2026-08-25 - UCI chess engine. Repo on GitHub.
+* [Stockfish Chess Repo](https://github.com/official-stockfish/Stockfish) ⭐ 16,422 | 🐛 40 | 🌐 C++ | 📅 2026-08-25 - UCI chess engine. Repo on GitHub.
 * [Leela Chess Zero](https://github.com/LeelaChessZero/lc0) ⭐ 3,194 | 🐛 255 | 🌐 C++ | 📅 2026-05-05 - A free, open-source, and neural network-based chess engine and distributed computing project.
 * [Caissa](https://github.com/Witek902/Caissa) ⭐ 110 | 🐛 8 | 🌐 C++ | 📅 2026-08-25 - A strong, UCI command-line chess engine, written from scratch in C++ in development since early 2021. Optimized for regular chess, FRC (Fischer Random Chess) and DFRC (Double Fischer Random Chess).
 * [Stockfish Chess](https://stockfishchess.org/) - Strong open source chess engine.
@@ -99,12 +99,12 @@ International:
 
 Repos
 
-* [Lila](https://github.com/ornicar/lila) ⭐ 18,677 | 🐛 1,286 | 🌐 Scala | 📅 2026-08-27 - A free online chess game server focused on realtime gameplay and ease of use.
+* [Lila](https://github.com/ornicar/lila) ⭐ 18,679 | 🐛 1,290 | 🌐 Scala | 📅 2026-08-27 - A free online chess game server focused on realtime gameplay and ease of use.
 * [python-chess](https://github.com/niklasf/python-chess) ⭐ 2,864 | 🐛 49 | 🌐 Python | 📅 2026-08-22 - A chess library for Python, with move generation and validation, PGN parsing and writing, Polyglot opening book reading, Gaviota tablebase probing, Syzygy tablebase probing, and UCI/XBoard engine communication.
 * [Chess Alpha Zero](https://github.com/Zeta36/chess-alpha-zero) ⭐ 2,224 | 🐛 64 | 🌐 Jupyter Notebook | 📅 2023-03-24 - Chess reinforcement learning by AlphaGo Zero methods.
 * [Lichobile](https://github.com/veloce/lichobile) ⚠️ Archived - Lichess.org mobile application.
 * [Game Server](https://github.com/jzyong/game-server) ⭐ 1,228 | 🐛 40 | 🌐 Java | 📅 2025-12-19 - Distributed Java game server, including cluster management server, gateway server, hall server, game logic server, background monitoring server and a running web version of fishing. State machine, behavior tree, A\* pathfinding, navigation mesh and other AI tools.
-* [PyChess](https://github.com/pychess/pychess) ⭐ 807 | 🐛 103 | 🌐 Python | 📅 2026-08-20 - A chess client for Linux/Windows.
+* [PyChess](https://github.com/pychess/pychess) ⭐ 807 | 🐛 103 | 🌐 Python | 📅 2026-08-27 - A chess client for Linux/Windows.
 * [Tensorflow\_chessbot](https://github.com/Elucidation/tensorflow_chessbot) ⭐ 567 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2023-07-25 - Predict chessboard FEN layouts from images using TensorFlow.
 * [Command Line Chess](https://github.com/marcusbuffett/command-line-chess) ⭐ 533 | 🐛 13 | 🌐 Python | 📅 2026-04-13 - A Python program to play chess against an AI in the terminal.
 * [Chess Encryption](https://github.com/WintrCat/chessencryption) ⭐ 445 | 🐛 4 | 🌐 Python | 📅 2026-01-13 - Project about encrypting files into large sets of Chess games stored in PGN format.

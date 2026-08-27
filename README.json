@@ -51,7 +51,7 @@
             "last_commit": "2026-08-25T17:28:02Z",
             "owner": "official-stockfish",
             "repo": "Stockfish",
-            "stars": 16421
+            "stars": 16422
           }
         },
         {
@@ -207,10 +207,10 @@
             "archived": false,
             "id": 3507455,
             "language": "Scala",
-            "last_commit": "2026-08-27T10:23:36Z",
+            "last_commit": "2026-08-27T17:40:04Z",
             "owner": "lichess-org",
             "repo": "lila",
-            "stars": 18677
+            "stars": 18679
           }
         },
         {
@@ -282,7 +282,7 @@
             "archived": false,
             "id": 30212992,
             "language": "Python",
-            "last_commit": "2026-08-20T21:27:02Z",
+            "last_commit": "2026-08-27T13:21:22Z",
             "owner": "pychess",
             "repo": "pychess",
             "stars": 807
@@ -413,7 +413,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:30:18.986Z",
+    "last_updated": "2026-08-27T19:16:36.580Z",
     "original_repository_info": {
       "archived": false,
       "id": 258513882,
