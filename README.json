@@ -16,7 +16,8 @@
             "owner": "mbiesiad",
             "repo": "awesome-chess",
             "stars": 59
-          }
+          },
+          "first_seen": "2026-08-28T20:26:00.741Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "mbiesiad",
             "repo": "awesome-chess",
             "stars": 59
-          }
+          },
+          "first_seen": "2026-08-28T20:26:00.741Z"
         }
       ],
       "title": "Translations"
@@ -51,8 +53,9 @@
             "last_commit": "2026-08-25T17:28:02Z",
             "owner": "official-stockfish",
             "repo": "Stockfish",
-            "stars": 16422
-          }
+            "stars": 16431
+          },
+          "first_seen": "2026-08-28T20:26:00.741Z"
         },
         {
           "node_type": "item",
@@ -66,8 +69,9 @@
             "last_commit": "2026-05-05T22:05:03Z",
             "owner": "LeelaChessZero",
             "repo": "lc0",
-            "stars": 3194
-          }
+            "stars": 3196
+          },
+          "first_seen": "2026-08-28T20:26:00.741Z"
         },
         {
           "node_type": "item",
@@ -82,7 +86,8 @@
             "owner": "Witek902",
             "repo": "Caissa",
             "stars": 110
-          }
+          },
+          "first_seen": "2026-08-28T20:26:00.741Z"
         }
       ],
       "title": "Chess engines"
@@ -102,8 +107,9 @@
             "last_commit": "2024-04-17T16:24:05Z",
             "owner": "oakmac",
             "repo": "chessboardjs",
-            "stars": 2133
-          }
+            "stars": 2134
+          },
+          "first_seen": "2026-08-28T20:26:00.741Z"
         },
         {
           "node_type": "item",
@@ -118,7 +124,8 @@
             "owner": "bmarini",
             "repo": "jchess",
             "stars": 83
-          }
+          },
+          "first_seen": "2026-08-28T20:26:00.741Z"
         },
         {
           "node_type": "item",
@@ -133,7 +140,8 @@
             "owner": "caustique",
             "repo": "chessboard-js",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-28T20:26:00.741Z"
         },
         {
           "node_type": "item",
@@ -148,7 +156,8 @@
             "owner": "laat",
             "repo": "chess-board",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T20:26:00.741Z"
         }
       ],
       "title": "Chess boards"
@@ -169,7 +178,8 @@
             "owner": "Tuhaj",
             "repo": "Chess-Clock",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T20:26:00.741Z"
         }
       ],
       "title": "Chess clocks"
@@ -189,8 +199,9 @@
             "last_commit": "2026-08-11T11:07:54Z",
             "owner": "jhlywa",
             "repo": "chess.js",
-            "stars": 4388
-          }
+            "stars": 4390
+          },
+          "first_seen": "2026-08-28T20:26:00.741Z"
         }
       ],
       "title": "Move's validations"
@@ -207,11 +218,12 @@
             "archived": false,
             "id": 3507455,
             "language": "Scala",
-            "last_commit": "2026-08-27T17:40:04Z",
+            "last_commit": "2026-08-28T12:26:43Z",
             "owner": "lichess-org",
             "repo": "lila",
-            "stars": 18679
-          }
+            "stars": 18681
+          },
+          "first_seen": "2026-08-28T20:26:00.741Z"
         },
         {
           "node_type": "item",
@@ -225,8 +237,9 @@
             "last_commit": "2026-08-22T13:17:47Z",
             "owner": "niklasf",
             "repo": "python-chess",
-            "stars": 2864
-          }
+            "stars": 2865
+          },
+          "first_seen": "2026-08-28T20:26:00.741Z"
         },
         {
           "node_type": "item",
@@ -241,7 +254,8 @@
             "owner": "Zeta36",
             "repo": "chess-alpha-zero",
             "stars": 2224
-          }
+          },
+          "first_seen": "2026-08-28T20:26:00.741Z"
         },
         {
           "node_type": "item",
@@ -256,7 +270,8 @@
             "owner": "lichess-org",
             "repo": "lichobile",
             "stars": 2182
-          }
+          },
+          "first_seen": "2026-08-28T20:26:00.741Z"
         },
         {
           "node_type": "item",
@@ -271,7 +286,8 @@
             "owner": "jzyong",
             "repo": "game-server",
             "stars": 1228
-          }
+          },
+          "first_seen": "2026-08-28T20:26:00.741Z"
         },
         {
           "node_type": "item",
@@ -286,7 +302,8 @@
             "owner": "pychess",
             "repo": "pychess",
             "stars": 807
-          }
+          },
+          "first_seen": "2026-08-28T20:26:00.741Z"
         },
         {
           "node_type": "item",
@@ -301,7 +318,8 @@
             "owner": "Elucidation",
             "repo": "tensorflow_chessbot",
             "stars": 567
-          }
+          },
+          "first_seen": "2026-08-28T20:26:00.741Z"
         },
         {
           "node_type": "item",
@@ -316,7 +334,8 @@
             "owner": "marcusbuffett",
             "repo": "command-line-chess",
             "stars": 533
-          }
+          },
+          "first_seen": "2026-08-28T20:26:00.741Z"
         },
         {
           "node_type": "item",
@@ -331,7 +350,8 @@
             "owner": "WintrCat",
             "repo": "chessencryption",
             "stars": 445
-          }
+          },
+          "first_seen": "2026-08-28T20:26:00.741Z"
         },
         {
           "node_type": "item",
@@ -346,7 +366,8 @@
             "owner": "WintrCat",
             "repo": "wintrchess",
             "stars": 244
-          }
+          },
+          "first_seen": "2026-08-28T20:26:00.741Z"
         },
         {
           "node_type": "item",
@@ -361,7 +382,8 @@
             "owner": "d3xvn",
             "repo": "FlutterChess",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-28T20:26:00.741Z"
         },
         {
           "node_type": "item",
@@ -376,7 +398,8 @@
             "owner": "theborakompanioni",
             "repo": "angular-chess",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T20:26:00.741Z"
         },
         {
           "node_type": "item",
@@ -391,7 +414,8 @@
             "owner": "theborakompanioni",
             "repo": "angular-chessboard",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T20:26:00.741Z"
         },
         {
           "node_type": "item",
@@ -406,14 +430,15 @@
             "owner": "johnwilde",
             "repo": "AndroidChessClock",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T20:26:00.741Z"
         }
       ],
       "title": "Projects"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T19:16:36.580Z",
+    "last_updated": "2026-08-28T20:26:00.741Z",
     "original_repository_info": {
       "archived": false,
       "id": 258513882,
