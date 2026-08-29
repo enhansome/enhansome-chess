@@ -38,7 +38,7 @@ A curated list of assets available on the Internet related to the Western chess.
 
 ## Chess engines
 
-* [Stockfish Chess Repo](https://github.com/official-stockfish/Stockfish) ⭐ 16,431 | 🐛 41 | 🌐 C++ | 📅 2026-08-25 - UCI chess engine. Repo on GitHub.
+* [Stockfish Chess Repo](https://github.com/official-stockfish/Stockfish) ⭐ 16,431 | 🐛 43 | 🌐 C++ | 📅 2026-08-25 - UCI chess engine. Repo on GitHub.
 * [Leela Chess Zero](https://github.com/LeelaChessZero/lc0) ⭐ 3,196 | 🐛 255 | 🌐 C++ | 📅 2026-05-05 - A free, open-source, and neural network-based chess engine and distributed computing project.
 * [Caissa](https://github.com/Witek902/Caissa) ⭐ 110 | 🐛 8 | 🌐 C++ | 📅 2026-08-25 - A strong, UCI command-line chess engine, written from scratch in C++ in development since early 2021. Optimized for regular chess, FRC (Fischer Random Chess) and DFRC (Double Fischer Random Chess).
 * [Stockfish Chess](https://stockfishchess.org/) - Strong open source chess engine.
@@ -99,7 +99,7 @@ International:
 
 Repos
 
-* [Lila](https://github.com/ornicar/lila) ⭐ 18,681 | 🐛 1,282 | 🌐 Scala | 📅 2026-08-28 - A free online chess game server focused on realtime gameplay and ease of use.
+* [Lila](https://github.com/ornicar/lila) ⭐ 18,682 | 🐛 1,284 | 🌐 Scala | 📅 2026-08-29 - A free online chess game server focused on realtime gameplay and ease of use.
 * [python-chess](https://github.com/niklasf/python-chess) ⭐ 2,865 | 🐛 49 | 🌐 Python | 📅 2026-08-22 - A chess library for Python, with move generation and validation, PGN parsing and writing, Polyglot opening book reading, Gaviota tablebase probing, Syzygy tablebase probing, and UCI/XBoard engine communication.
 * [Chess Alpha Zero](https://github.com/Zeta36/chess-alpha-zero) ⭐ 2,224 | 🐛 64 | 🌐 Jupyter Notebook | 📅 2023-03-24 - Chess reinforcement learning by AlphaGo Zero methods.
 * [Lichobile](https://github.com/veloce/lichobile) ⚠️ Archived - Lichess.org mobile application.
@@ -251,4 +251,4 @@ See [Code of Conduct](CODE-OF-CONDUCT.md).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._

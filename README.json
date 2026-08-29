@@ -10,12 +10,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":trophy: Awesome-Chess! :key: :lock: are you a chess player or chess enthusiast? ⭐",
+            "homepage": "https://mbiesiad.github.io/awesome-chess/",
             "id": 258513882,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-11-18T18:12:45Z",
+            "open_issues": 11,
             "owner": "mbiesiad",
             "repo": "awesome-chess",
-            "stars": 59
+            "stars": 59,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "chess",
+              "chess-boards",
+              "chess-engine",
+              "chess-game",
+              "hacktoberfest",
+              "hacktoberfest2020"
+            ]
           },
           "first_seen": "2026-08-28T20:26:00.741Z"
         },
@@ -26,12 +40,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":trophy: Awesome-Chess! :key: :lock: are you a chess player or chess enthusiast? ⭐",
+            "homepage": "https://mbiesiad.github.io/awesome-chess/",
             "id": 258513882,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-11-18T18:12:45Z",
+            "open_issues": 11,
             "owner": "mbiesiad",
             "repo": "awesome-chess",
-            "stars": 59
+            "stars": 59,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "chess",
+              "chess-boards",
+              "chess-engine",
+              "chess-game",
+              "hacktoberfest",
+              "hacktoberfest2020"
+            ]
           },
           "first_seen": "2026-08-28T20:26:00.741Z"
         }
@@ -48,12 +76,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A free and strong UCI chess engine",
+            "homepage": "https://stockfishchess.org/",
             "id": 20976138,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-25T17:28:02Z",
+            "open_issues": 43,
             "owner": "official-stockfish",
             "repo": "Stockfish",
-            "stars": 16431
+            "stars": 16431,
+            "topics": [
+              "chess",
+              "chess-engine",
+              "cpp",
+              "stockfish",
+              "uci"
+            ]
           },
           "first_seen": "2026-08-28T20:26:00.741Z"
         },
@@ -64,12 +103,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open source neural network chess engine with GPU acceleration and broad hardware support.",
+            "homepage": "https://lczero.org/",
             "id": 135489692,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2026-05-05T22:05:03Z",
+            "open_issues": 255,
             "owner": "LeelaChessZero",
             "repo": "lc0",
-            "stars": 3196
+            "stars": 3196,
+            "topics": [
+              "alphazero",
+              "alphazero-inspired",
+              "chess",
+              "chess-ai",
+              "chess-engine",
+              "cuda",
+              "deep-learning",
+              "deep-reinforcement-learning",
+              "gpu",
+              "leela-chess-zero",
+              "neural-networks",
+              "uci"
+            ]
           },
           "first_seen": "2026-08-28T20:26:00.741Z"
         },
@@ -80,12 +137,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Strong chess engine",
+            "homepage": null,
             "id": 350500044,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-08-25T22:37:54Z",
+            "open_issues": 8,
             "owner": "Witek902",
             "repo": "Caissa",
-            "stars": 110
+            "stars": 110,
+            "topics": [
+              "ai",
+              "chess",
+              "cpp",
+              "neural-network",
+              "nnue"
+            ]
           },
           "first_seen": "2026-08-28T20:26:00.741Z"
         }
@@ -102,12 +170,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JavaScript chessboard",
+            "homepage": "https://chessboardjs.com",
             "id": 10411524,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-04-17T16:24:05Z",
+            "open_issues": 109,
             "owner": "oakmac",
             "repo": "chessboardjs",
-            "stars": 2134
+            "stars": 2134,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:00.741Z"
         },
@@ -118,12 +191,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A jQuery-based javascript library for parsing and displaying chess games.",
+            "homepage": null,
             "id": 34124,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-04-07T16:32:09Z",
+            "open_issues": 9,
             "owner": "bmarini",
             "repo": "jchess",
-            "stars": 83
+            "stars": 83,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:00.741Z"
         },
@@ -134,12 +212,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A responsive mobile-first javascript chessboard library.",
+            "homepage": "http://caustique.github.io/chessboard-js",
             "id": 19112561,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-08-13T03:28:15Z",
+            "open_issues": 7,
             "owner": "caustique",
             "repo": "chessboard-js",
-            "stars": 38
+            "stars": 38,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:00.741Z"
         },
@@ -150,12 +233,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Web Component for displaying chess positions",
+            "homepage": "http://chess-board.laat.dev/",
             "id": 17352988,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-04-13T23:48:07Z",
+            "open_issues": 0,
             "owner": "laat",
             "repo": "chess-board",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:00.741Z"
         }
@@ -172,12 +260,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This double timer can help you while playing board games like chess or scrabble",
+            "homepage": "http://tuhaj.github.io/Chess-Clock/",
             "id": 15671007,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2014-02-19T11:55:22Z",
+            "open_issues": 0,
             "owner": "Tuhaj",
             "repo": "Chess-Clock",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:00.741Z"
         }
@@ -194,12 +287,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A TypeScript chess library for chess move generation/validation, piece placement/movement, and check/checkmate/draw detection",
+            "homepage": "http://jhlywa.github.io/chess.js/",
             "id": 98154,
             "language": "TypeScript",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-08-11T11:07:54Z",
+            "open_issues": 45,
             "owner": "jhlywa",
             "repo": "chess.js",
-            "stars": 4390
+            "stars": 4390,
+            "topics": [
+              "chess"
+            ]
           },
           "first_seen": "2026-08-28T20:26:00.741Z"
         }
@@ -216,12 +316,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "♞ lichess.org: the forever free, adless and open source chess server ♞",
+            "homepage": "https://lichess.org",
             "id": 3507455,
             "language": "Scala",
-            "last_commit": "2026-08-28T12:26:43Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-29T04:16:09Z",
+            "open_issues": 1284,
             "owner": "lichess-org",
             "repo": "lila",
-            "stars": 18681
+            "stars": 18682,
+            "topics": [
+              "chess",
+              "free-software",
+              "functional-programming",
+              "game",
+              "lichess",
+              "non-profit",
+              "play-framework",
+              "scala",
+              "type-safe",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T20:26:00.741Z"
         },
@@ -232,12 +348,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A chess library for Python, with move generation and validation, PGN parsing and writing, Polyglot opening book reading, Gaviota tablebase probing, Syzygy tablebase probing, and UCI/XBoard engine communication",
+            "homepage": "https://python-chess.readthedocs.io/en/latest/",
             "id": 6054289,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-22T13:17:47Z",
+            "open_issues": 49,
             "owner": "niklasf",
             "repo": "python-chess",
-            "stars": 2865
+            "stars": 2865,
+            "topics": [
+              "chess",
+              "epd",
+              "fen",
+              "gaviota",
+              "pgn",
+              "polyglot",
+              "syzygy",
+              "uci",
+              "xboard"
+            ]
           },
           "first_seen": "2026-08-28T20:26:00.741Z"
         },
@@ -248,12 +379,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chess reinforcement learning by AlphaGo Zero methods.",
+            "homepage": null,
             "id": 111276294,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2023-03-24T22:22:17Z",
+            "open_issues": 64,
             "owner": "Zeta36",
             "repo": "chess-alpha-zero",
-            "stars": 2224
+            "stars": 2224,
+            "topics": [
+              "alphago-zero",
+              "chess",
+              "keras",
+              "reinforcement-learning",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T20:26:00.741Z"
         },
@@ -264,12 +406,34 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "lichess.org former mobile application / new one -> github.com/lichess-org/mobile",
+            "homepage": "https://lichess.org/mobile",
             "id": 19611854,
             "language": "TypeScript",
+            "license": "GPL-3.0",
             "last_commit": "2026-02-15T22:57:49Z",
+            "open_issues": 695,
             "owner": "lichess-org",
             "repo": "lichobile",
-            "stars": 2182
+            "stars": 2182,
+            "topics": [
+              "android",
+              "android-sdk",
+              "capacitor",
+              "chess",
+              "chess-engine",
+              "chess-game",
+              "ionic-capacitor",
+              "ios",
+              "javascript",
+              "lichess",
+              "lichess-mobile",
+              "mithril",
+              "scalajs",
+              "stockfish",
+              "typescript",
+              "xcode"
+            ]
           },
           "first_seen": "2026-08-28T20:26:00.741Z"
         },
@@ -280,12 +444,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Distributed Java game server, including cluster management server, gateway server, hall server, game logic server, background monitoring server and a running web version of fishing. State machine, behavior tree, A* pathfinding, navigation mesh and other AI tools",
+            "homepage": "https://jzyong.github.io/game-server/",
             "id": 100464616,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2025-12-19T22:49:29Z",
+            "open_issues": 40,
             "owner": "jzyong",
             "repo": "game-server",
-            "stars": 1228
+            "stars": 1228,
+            "topics": [
+              "ai",
+              "astar-algorithm",
+              "behavior-tree",
+              "chess",
+              "distributed",
+              "fish",
+              "game",
+              "gate",
+              "java",
+              "mina",
+              "mmo",
+              "mmorpg-server",
+              "navmesh",
+              "netty",
+              "quad-tree",
+              "rpg",
+              "server"
+            ]
           },
           "first_seen": "2026-08-28T20:26:00.741Z"
         },
@@ -296,12 +483,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PyChess - desktop chess client for Linux/Windows",
+            "homepage": "https://pychess.github.io/",
             "id": 30212992,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-27T13:21:22Z",
+            "open_issues": 103,
             "owner": "pychess",
             "repo": "pychess",
-            "stars": 807
+            "stars": 807,
+            "topics": [
+              "chess",
+              "epd",
+              "fen",
+              "fics",
+              "gtk3",
+              "gui",
+              "icc",
+              "lichess",
+              "pgn",
+              "python3"
+            ]
           },
           "first_seen": "2026-08-28T20:26:00.741Z"
         },
@@ -312,12 +515,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Predict chessboard FEN layouts from images using TensorFlow",
+            "homepage": "http://www.tetralark.com/tensorflow_chessbot/",
             "id": 51289875,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2023-07-25T18:32:02Z",
+            "open_issues": 5,
             "owner": "Elucidation",
             "repo": "tensorflow_chessbot",
-            "stars": 567
+            "stars": 567,
+            "topics": [
+              "chess",
+              "chessboard",
+              "chessboard-detection",
+              "chessboard-recognition",
+              "tensorflow",
+              "tensorflow-examples",
+              "tensorflow-tutorials"
+            ]
           },
           "first_seen": "2026-08-28T20:26:00.741Z"
         },
@@ -328,12 +544,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A python program to play chess against an AI in the terminal.",
+            "homepage": null,
             "id": 25874460,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-04-13T19:15:36Z",
+            "open_issues": 13,
             "owner": "marcusbuffett",
             "repo": "command-line-chess",
-            "stars": 533
+            "stars": 533,
+            "topics": [
+              "chess",
+              "hacktoberfest",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T20:26:00.741Z"
         },
@@ -344,12 +569,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chess Encryption 🔑",
+            "homepage": null,
             "id": 853013502,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-01-13T19:35:30Z",
+            "open_issues": 4,
             "owner": "WintrCat",
             "repo": "chessencryption",
-            "stars": 445
+            "stars": 445,
+            "topics": [
+              "chess",
+              "cloudstorage",
+              "encryption"
+            ]
           },
           "first_seen": "2026-08-28T20:26:00.741Z"
         },
@@ -360,12 +594,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WintrChess ♟️",
+            "homepage": "https://wintrchess.com/",
             "id": 1029401335,
             "language": "TypeScript",
+            "license": "GPL-3.0",
             "last_commit": "2026-04-24T00:11:23Z",
+            "open_issues": 29,
             "owner": "WintrCat",
             "repo": "wintrchess",
-            "stars": 244
+            "stars": 244,
+            "topics": [
+              "chess",
+              "stockfish"
+            ]
           },
           "first_seen": "2026-08-28T20:26:00.741Z"
         },
@@ -376,12 +618,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A concept Chess app for Flutter.",
+            "homepage": null,
             "id": 147517353,
             "language": "Dart",
+            "license": null,
             "last_commit": "2018-09-05T12:53:23Z",
+            "open_issues": 2,
             "owner": "d3xvn",
             "repo": "FlutterChess",
-            "stars": 52
+            "stars": 52,
+            "topics": [
+              "flutter",
+              "flutter-apps",
+              "flutter-demo",
+              "flutter-examples"
+            ]
           },
           "first_seen": "2026-08-28T20:26:00.741Z"
         },
@@ -392,12 +644,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Chess Directive for AngularJS",
+            "homepage": "https://theborakompanioni.github.io/angular-chess",
             "id": 16888728,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-05-20T12:07:30Z",
+            "open_issues": 0,
             "owner": "theborakompanioni",
             "repo": "angular-chess",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:00.741Z"
         },
@@ -408,12 +665,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Chess Board Directive for AngularJS",
+            "homepage": "https://theborakompanioni.github.io/angular-chess",
             "id": 16885248,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2016-01-11T22:43:03Z",
+            "open_issues": 1,
             "owner": "theborakompanioni",
             "repo": "angular-chessboard",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:00.741Z"
         },
@@ -424,12 +686,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple chess clock for Android.",
+            "homepage": null,
             "id": 1985185,
             "language": "Kotlin",
+            "license": null,
             "last_commit": "2019-02-04T05:42:30Z",
+            "open_issues": 1,
             "owner": "johnwilde",
             "repo": "AndroidChessClock",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:26:00.741Z"
         }
@@ -438,15 +705,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:26:00.741Z",
+    "last_updated": "2026-08-29T05:05:59.981Z",
     "original_repository_info": {
       "archived": false,
+      "description": ":trophy: Awesome-Chess! :key: :lock: are you a chess player or chess enthusiast? ⭐",
+      "homepage": "https://mbiesiad.github.io/awesome-chess/",
       "id": 258513882,
       "language": null,
+      "license": "MIT",
       "last_commit": "2025-11-18T18:12:45Z",
+      "open_issues": 11,
       "owner": "mbiesiad",
       "repo": "awesome-chess",
-      "stars": 59
+      "stars": 59,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "chess",
+        "chess-boards",
+        "chess-engine",
+        "chess-game",
+        "hacktoberfest",
+        "hacktoberfest2020"
+      ]
     },
     "original_repository_sha": "aa87b26bb0e3de693e9e7522282073ad618abfc4",
     "enhanced_repository": "enhansome/enhansome-chess",
