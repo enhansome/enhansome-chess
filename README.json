@@ -81,11 +81,11 @@
             "id": 20976138,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-25T17:28:02Z",
-            "open_issues": 43,
+            "last_commit": "2026-08-29T08:11:37Z",
+            "open_issues": 40,
             "owner": "official-stockfish",
             "repo": "Stockfish",
-            "stars": 16431,
+            "stars": 16433,
             "topics": [
               "chess",
               "chess-engine",
@@ -142,7 +142,7 @@
             "id": 350500044,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-08-25T22:37:54Z",
+            "last_commit": "2026-08-29T13:06:49Z",
             "open_issues": 8,
             "owner": "Witek902",
             "repo": "Caissa",
@@ -296,7 +296,7 @@
             "open_issues": 45,
             "owner": "jhlywa",
             "repo": "chess.js",
-            "stars": 4390,
+            "stars": 4391,
             "topics": [
               "chess"
             ]
@@ -321,11 +321,11 @@
             "id": 3507455,
             "language": "Scala",
             "license": "AGPL-3.0",
-            "last_commit": "2026-08-29T04:16:09Z",
-            "open_issues": 1284,
+            "last_commit": "2026-08-29T10:41:31Z",
+            "open_issues": 1275,
             "owner": "lichess-org",
             "repo": "lila",
-            "stars": 18682,
+            "stars": 18685,
             "topics": [
               "chess",
               "free-software",
@@ -357,7 +357,7 @@
             "open_issues": 49,
             "owner": "niklasf",
             "repo": "python-chess",
-            "stars": 2865,
+            "stars": 2866,
             "topics": [
               "chess",
               "epd",
@@ -705,7 +705,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T05:05:59.981Z",
+    "last_updated": "2026-08-29T14:01:21.616Z",
     "original_repository_info": {
       "archived": false,
       "description": ":trophy: Awesome-Chess! :key: :lock: are you a chess player or chess enthusiast? ⭐",
