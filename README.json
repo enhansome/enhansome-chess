@@ -82,10 +82,10 @@
             "language": "C++",
             "license": "GPL-3.0",
             "last_commit": "2026-08-29T08:11:37Z",
-            "open_issues": 40,
+            "open_issues": 43,
             "owner": "official-stockfish",
             "repo": "Stockfish",
-            "stars": 16437,
+            "stars": 16444,
             "topics": [
               "chess",
               "chess-engine",
@@ -112,7 +112,7 @@
             "open_issues": 255,
             "owner": "LeelaChessZero",
             "repo": "lc0",
-            "stars": 3196,
+            "stars": 3198,
             "topics": [
               "alphazero",
               "alphazero-inspired",
@@ -296,7 +296,7 @@
             "open_issues": 45,
             "owner": "jhlywa",
             "repo": "chess.js",
-            "stars": 4392,
+            "stars": 4394,
             "topics": [
               "chess"
             ]
@@ -321,11 +321,11 @@
             "id": 3507455,
             "language": "Scala",
             "license": "AGPL-3.0",
-            "last_commit": "2026-08-30T12:24:10Z",
-            "open_issues": 1277,
+            "last_commit": "2026-08-31T04:19:58Z",
+            "open_issues": 1284,
             "owner": "lichess-org",
             "repo": "lila",
-            "stars": 18689,
+            "stars": 18691,
             "topics": [
               "chess",
               "free-software",
@@ -357,7 +357,7 @@
             "open_issues": 49,
             "owner": "niklasf",
             "repo": "python-chess",
-            "stars": 2866,
+            "stars": 2868,
             "topics": [
               "chess",
               "epd",
@@ -488,11 +488,11 @@
             "id": 30212992,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-27T13:21:22Z",
+            "last_commit": "2026-08-31T12:25:49Z",
             "open_issues": 103,
             "owner": "pychess",
             "repo": "pychess",
-            "stars": 807,
+            "stars": 808,
             "topics": [
               "chess",
               "epd",
@@ -603,7 +603,7 @@
             "open_issues": 29,
             "owner": "WintrCat",
             "repo": "wintrchess",
-            "stars": 244,
+            "stars": 245,
             "topics": [
               "chess",
               "stockfish"
@@ -705,7 +705,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T14:00:26.681Z",
+    "last_updated": "2026-08-31T16:24:29.168Z",
     "original_repository_info": {
       "archived": false,
       "description": ":trophy: Awesome-Chess! :key: :lock: are you a chess player or chess enthusiast? ⭐",
