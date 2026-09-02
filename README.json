@@ -81,11 +81,11 @@
             "id": 20976138,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-29T08:11:37Z",
-            "open_issues": 50,
+            "last_commit": "2026-09-02T07:28:51Z",
+            "open_issues": 49,
             "owner": "official-stockfish",
             "repo": "Stockfish",
-            "stars": 16451,
+            "stars": 16462,
             "topics": [
               "chess",
               "chess-engine",
@@ -112,7 +112,7 @@
             "open_issues": 255,
             "owner": "LeelaChessZero",
             "repo": "lc0",
-            "stars": 3197,
+            "stars": 3198,
             "topics": [
               "alphazero",
               "alphazero-inspired",
@@ -142,7 +142,7 @@
             "id": 350500044,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-08-30T00:01:39Z",
+            "last_commit": "2026-09-01T18:46:18Z",
             "open_issues": 8,
             "owner": "Witek902",
             "repo": "Caissa",
@@ -321,11 +321,11 @@
             "id": 3507455,
             "language": "Scala",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-01T11:02:10Z",
-            "open_issues": 1280,
+            "last_commit": "2026-09-02T11:35:55Z",
+            "open_issues": 1276,
             "owner": "lichess-org",
             "repo": "lila",
-            "stars": 18695,
+            "stars": 18699,
             "topics": [
               "chess",
               "free-software",
@@ -415,7 +415,7 @@
             "open_issues": 695,
             "owner": "lichess-org",
             "repo": "lichobile",
-            "stars": 2182,
+            "stars": 2181,
             "topics": [
               "android",
               "android-sdk",
@@ -705,7 +705,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T13:43:05.933Z",
+    "last_updated": "2026-09-02T12:59:28.086Z",
     "original_repository_info": {
       "archived": false,
       "description": ":trophy: Awesome-Chess! :key: :lock: are you a chess player or chess enthusiast? ⭐",
