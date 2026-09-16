@@ -82,10 +82,10 @@
             "language": "C++",
             "license": "GPL-3.0",
             "last_commit": "2026-09-13T08:15:12Z",
-            "open_issues": 44,
+            "open_issues": 45,
             "owner": "official-stockfish",
             "repo": "Stockfish",
-            "stars": 16638,
+            "stars": 16647,
             "topics": [
               "chess",
               "chess-engine",
@@ -112,7 +112,7 @@
             "open_issues": 249,
             "owner": "LeelaChessZero",
             "repo": "lc0",
-            "stars": 3213,
+            "stars": 3216,
             "topics": [
               "alphazero",
               "alphazero-inspired",
@@ -146,7 +146,7 @@
             "open_issues": 9,
             "owner": "Witek902",
             "repo": "Caissa",
-            "stars": 111,
+            "stars": 112,
             "topics": [
               "ai",
               "chess",
@@ -296,7 +296,7 @@
             "open_issues": 45,
             "owner": "jhlywa",
             "repo": "chess.js",
-            "stars": 4403,
+            "stars": 4404,
             "topics": [
               "chess"
             ]
@@ -321,11 +321,11 @@
             "id": 3507455,
             "language": "Scala",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-15T08:53:18Z",
-            "open_issues": 1262,
+            "last_commit": "2026-09-16T12:18:29Z",
+            "open_issues": 1250,
             "owner": "lichess-org",
             "repo": "lila",
-            "stars": 18730,
+            "stars": 18735,
             "topics": [
               "chess",
               "free-software",
@@ -488,8 +488,8 @@
             "id": 30212992,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-15T11:16:59Z",
-            "open_issues": 103,
+            "last_commit": "2026-09-16T13:15:19Z",
+            "open_issues": 98,
             "owner": "pychess",
             "repo": "pychess",
             "stars": 810,
@@ -705,7 +705,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T13:53:31.365Z",
+    "last_updated": "2026-09-16T13:45:52.905Z",
     "original_repository_info": {
       "archived": false,
       "description": ":trophy: Awesome-Chess! :key: :lock: are you a chess player or chess enthusiast? ⭐",
