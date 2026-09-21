@@ -82,10 +82,10 @@
             "language": "C++",
             "license": "GPL-3.0",
             "last_commit": "2026-09-19T11:27:28Z",
-            "open_issues": 47,
+            "open_issues": 49,
             "owner": "official-stockfish",
             "repo": "Stockfish",
-            "stars": 16675,
+            "stars": 16686,
             "topics": [
               "chess",
               "chess-engine",
@@ -112,7 +112,7 @@
             "open_issues": 250,
             "owner": "LeelaChessZero",
             "repo": "lc0",
-            "stars": 3218,
+            "stars": 3222,
             "topics": [
               "alphazero",
               "alphazero-inspired",
@@ -142,7 +142,7 @@
             "id": 350500044,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-20T11:22:50Z",
+            "last_commit": "2026-09-20T23:34:13Z",
             "open_issues": 6,
             "owner": "Witek902",
             "repo": "Caissa",
@@ -321,11 +321,11 @@
             "id": 3507455,
             "language": "Scala",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-20T04:16:55Z",
-            "open_issues": 1268,
+            "last_commit": "2026-09-21T15:03:56Z",
+            "open_issues": 1261,
             "owner": "lichess-org",
             "repo": "lila",
-            "stars": 18748,
+            "stars": 18751,
             "topics": [
               "chess",
               "free-software",
@@ -357,7 +357,7 @@
             "open_issues": 49,
             "owner": "niklasf",
             "repo": "python-chess",
-            "stars": 2882,
+            "stars": 2881,
             "topics": [
               "chess",
               "epd",
@@ -705,7 +705,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T13:14:10.701Z",
+    "last_updated": "2026-09-21T15:21:19.471Z",
     "original_repository_info": {
       "archived": false,
       "description": ":trophy: Awesome-Chess! :key: :lock: are you a chess player or chess enthusiast? ⭐",
