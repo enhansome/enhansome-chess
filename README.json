@@ -16,7 +16,7 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2025-11-18T18:12:45Z",
-            "open_issues": 11,
+            "open_issues": 12,
             "owner": "mbiesiad",
             "repo": "awesome-chess",
             "stars": 60,
@@ -46,7 +46,7 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2025-11-18T18:12:45Z",
-            "open_issues": 11,
+            "open_issues": 12,
             "owner": "mbiesiad",
             "repo": "awesome-chess",
             "stars": 60,
@@ -85,7 +85,7 @@
             "open_issues": 49,
             "owner": "official-stockfish",
             "repo": "Stockfish",
-            "stars": 16686,
+            "stars": 16693,
             "topics": [
               "chess",
               "chess-engine",
@@ -112,7 +112,7 @@
             "open_issues": 250,
             "owner": "LeelaChessZero",
             "repo": "lc0",
-            "stars": 3222,
+            "stars": 3220,
             "topics": [
               "alphazero",
               "alphazero-inspired",
@@ -142,7 +142,7 @@
             "id": 350500044,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-20T23:34:13Z",
+            "last_commit": "2026-09-22T09:30:17Z",
             "open_issues": 6,
             "owner": "Witek902",
             "repo": "Caissa",
@@ -293,10 +293,10 @@
             "language": "TypeScript",
             "license": "BSD-2-Clause",
             "last_commit": "2026-08-11T11:07:54Z",
-            "open_issues": 45,
+            "open_issues": 46,
             "owner": "jhlywa",
             "repo": "chess.js",
-            "stars": 4407,
+            "stars": 4408,
             "topics": [
               "chess"
             ]
@@ -321,11 +321,11 @@
             "id": 3507455,
             "language": "Scala",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-21T15:03:56Z",
-            "open_issues": 1261,
+            "last_commit": "2026-09-22T08:37:56Z",
+            "open_issues": 1264,
             "owner": "lichess-org",
             "repo": "lila",
-            "stars": 18751,
+            "stars": 18759,
             "topics": [
               "chess",
               "free-software",
@@ -388,7 +388,7 @@
             "open_issues": 64,
             "owner": "Zeta36",
             "repo": "chess-alpha-zero",
-            "stars": 2225,
+            "stars": 2226,
             "topics": [
               "alphago-zero",
               "chess",
@@ -415,7 +415,7 @@
             "open_issues": 695,
             "owner": "lichess-org",
             "repo": "lichobile",
-            "stars": 2181,
+            "stars": 2180,
             "topics": [
               "android",
               "android-sdk",
@@ -453,7 +453,7 @@
             "open_issues": 40,
             "owner": "jzyong",
             "repo": "game-server",
-            "stars": 1229,
+            "stars": 1228,
             "topics": [
               "ai",
               "astar-algorithm",
@@ -488,8 +488,8 @@
             "id": 30212992,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-19T08:41:28Z",
-            "open_issues": 88,
+            "last_commit": "2026-09-21T18:30:58Z",
+            "open_issues": 87,
             "owner": "pychess",
             "repo": "pychess",
             "stars": 810,
@@ -603,7 +603,7 @@
             "open_issues": 31,
             "owner": "WintrCat",
             "repo": "wintrchess",
-            "stars": 256,
+            "stars": 257,
             "topics": [
               "chess",
               "stockfish"
@@ -705,7 +705,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T15:21:19.471Z",
+    "last_updated": "2026-09-22T13:41:29.913Z",
     "original_repository_info": {
       "archived": false,
       "description": ":trophy: Awesome-Chess! :key: :lock: are you a chess player or chess enthusiast? ⭐",
@@ -714,7 +714,7 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2025-11-18T18:12:45Z",
-      "open_issues": 11,
+      "open_issues": 12,
       "owner": "mbiesiad",
       "repo": "awesome-chess",
       "stars": 60,
