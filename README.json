@@ -82,10 +82,10 @@
             "language": "C++",
             "license": "GPL-3.0",
             "last_commit": "2026-09-22T16:55:18Z",
-            "open_issues": 42,
+            "open_issues": 43,
             "owner": "official-stockfish",
             "repo": "Stockfish",
-            "stars": 16736,
+            "stars": 16751,
             "topics": [
               "chess",
               "chess-engine",
@@ -109,10 +109,10 @@
             "language": "C++",
             "license": "GPL-3.0",
             "last_commit": "2026-09-19T09:18:40Z",
-            "open_issues": 251,
+            "open_issues": 252,
             "owner": "LeelaChessZero",
             "repo": "lc0",
-            "stars": 3226,
+            "stars": 3229,
             "topics": [
               "alphazero",
               "alphazero-inspired",
@@ -142,7 +142,7 @@
             "id": 350500044,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-26T13:05:11Z",
+            "last_commit": "2026-09-27T14:03:31Z",
             "open_issues": 7,
             "owner": "Witek902",
             "repo": "Caissa",
@@ -296,7 +296,7 @@
             "open_issues": 46,
             "owner": "jhlywa",
             "repo": "chess.js",
-            "stars": 4410,
+            "stars": 4411,
             "topics": [
               "chess"
             ]
@@ -321,11 +321,11 @@
             "id": 3507455,
             "language": "Scala",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-26T09:00:42Z",
-            "open_issues": 1266,
+            "last_commit": "2026-09-27T13:30:38Z",
+            "open_issues": 1268,
             "owner": "lichess-org",
             "repo": "lila",
-            "stars": 18767,
+            "stars": 18773,
             "topics": [
               "chess",
               "free-software",
@@ -357,7 +357,7 @@
             "open_issues": 51,
             "owner": "niklasf",
             "repo": "python-chess",
-            "stars": 2884,
+            "stars": 2885,
             "topics": [
               "chess",
               "epd",
@@ -483,7 +483,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "PyChess - desktop chess client for Linux/Windows",
+            "description": "PyChess - desktop chess client for Linux/Windows/macOS",
             "homepage": "https://pychess.github.io/",
             "id": 30212992,
             "language": "Python",
@@ -705,7 +705,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T13:24:03.499Z",
+    "last_updated": "2026-09-27T14:19:22.828Z",
     "original_repository_info": {
       "archived": false,
       "description": ":trophy: Awesome-Chess! :key: :lock: are you a chess player or chess enthusiast? ⭐",
