@@ -38,8 +38,8 @@ A curated list of assets available on the Internet related to the Western chess.
 
 ## Chess engines
 
-* [Stockfish Chess Repo](https://github.com/official-stockfish/Stockfish) ⭐ 16,757 | 🐛 43 | 🌐 C++ | 📅 2026-09-22 - UCI chess engine. Repo on GitHub.
-* [Leela Chess Zero](https://github.com/LeelaChessZero/lc0) ⭐ 3,230 | 🐛 252 | 🌐 C++ | 📅 2026-09-19 - A free, open-source, and neural network-based chess engine and distributed computing project.
+* [Stockfish Chess Repo](https://github.com/official-stockfish/Stockfish) ⭐ 16,762 | 🐛 44 | 🌐 C++ | 📅 2026-09-22 - UCI chess engine. Repo on GitHub.
+* [Leela Chess Zero](https://github.com/LeelaChessZero/lc0) ⭐ 3,231 | 🐛 255 | 🌐 C++ | 📅 2026-09-19 - A free, open-source, and neural network-based chess engine and distributed computing project.
 * [Caissa](https://github.com/Witek902/Caissa) ⭐ 114 | 🐛 7 | 🌐 C++ | 📅 2026-09-27 - A strong, UCI command-line chess engine, written from scratch in C++ in development since early 2021. Optimized for regular chess, FRC (Fischer Random Chess) and DFRC (Double Fischer Random Chess).
 * [Stockfish Chess](https://stockfishchess.org/) - Strong open source chess engine.
 * [Fritz](https://fritz.chessbase.com/) - A German chess program originally developed for ChessBase by Frans Morsch based on his Quest program, ported to DOS, and then Windows by Mathias Feist.
@@ -92,14 +92,14 @@ International:
 
 ## Move's validations
 
-* [chess.js](https://github.com/jhlywa/chess.js) ⭐ 4,412 | 🐛 46 | 🌐 TypeScript | 📅 2026-08-11 - A JavaScript chess library for chess move generation/validation, piece placement/movement, and check/checkmate/draw detection.
+* [chess.js](https://github.com/jhlywa/chess.js) ⭐ 4,414 | 🐛 47 | 🌐 TypeScript | 📅 2026-08-11 - A JavaScript chess library for chess move generation/validation, piece placement/movement, and check/checkmate/draw detection.
 * [node-chess](https://www.npmjs.com/package/chess) - An algebraic notation driven chess engine that can validate board position and produce a list of viable moves (notated).
 
 ## Projects
 
 Repos
 
-* [Lila](https://github.com/ornicar/lila) ⭐ 18,779 | 🐛 1,269 | 🌐 Scala | 📅 2026-09-28 - A free online chess game server focused on realtime gameplay and ease of use.
+* [Lila](https://github.com/ornicar/lila) ⭐ 18,783 | 🐛 1,269 | 🌐 Scala | 📅 2026-09-29 - A free online chess game server focused on realtime gameplay and ease of use.
 * [python-chess](https://github.com/niklasf/python-chess) ⭐ 2,886 | 🐛 51 | 🌐 Python | 📅 2026-08-22 - A chess library for Python, with move generation and validation, PGN parsing and writing, Polyglot opening book reading, Gaviota tablebase probing, Syzygy tablebase probing, and UCI/XBoard engine communication.
 * [Chess Alpha Zero](https://github.com/Zeta36/chess-alpha-zero) ⭐ 2,227 | 🐛 64 | 🌐 Jupyter Notebook | 📅 2023-03-24 - Chess reinforcement learning by AlphaGo Zero methods.
 * [Lichobile](https://github.com/veloce/lichobile) ⚠️ Archived - Lichess.org mobile application.
@@ -251,4 +251,4 @@ See [Code of Conduct](CODE-OF-CONDUCT.md).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
