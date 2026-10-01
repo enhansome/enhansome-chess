@@ -81,11 +81,11 @@
             "id": 20976138,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-22T16:55:18Z",
-            "open_issues": 45,
+            "last_commit": "2026-09-30T19:32:32Z",
+            "open_issues": 38,
             "owner": "official-stockfish",
             "repo": "Stockfish",
-            "stars": 16777,
+            "stars": 16784,
             "topics": [
               "chess",
               "chess-engine",
@@ -296,7 +296,7 @@
             "open_issues": 47,
             "owner": "jhlywa",
             "repo": "chess.js",
-            "stars": 4412,
+            "stars": 4413,
             "topics": [
               "chess"
             ]
@@ -321,11 +321,11 @@
             "id": 3507455,
             "language": "Scala",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-30T14:37:10Z",
-            "open_issues": 1265,
+            "last_commit": "2026-10-01T14:40:18Z",
+            "open_issues": 1264,
             "owner": "lichess-org",
             "repo": "lila",
-            "stars": 18787,
+            "stars": 18790,
             "topics": [
               "chess",
               "free-software",
@@ -357,7 +357,7 @@
             "open_issues": 52,
             "owner": "niklasf",
             "repo": "python-chess",
-            "stars": 2885,
+            "stars": 2887,
             "topics": [
               "chess",
               "epd",
@@ -488,8 +488,8 @@
             "id": 30212992,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-26T13:21:59Z",
-            "open_issues": 85,
+            "last_commit": "2026-10-01T12:23:18Z",
+            "open_issues": 87,
             "owner": "pychess",
             "repo": "pychess",
             "stars": 813,
@@ -705,7 +705,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T15:22:39.259Z",
+    "last_updated": "2026-10-01T15:42:33.362Z",
     "original_repository_info": {
       "archived": false,
       "description": ":trophy: Awesome-Chess! :key: :lock: are you a chess player or chess enthusiast? ⭐",
