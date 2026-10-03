@@ -19,7 +19,7 @@
             "open_issues": 40,
             "owner": "official-stockfish",
             "repo": "Stockfish",
-            "stars": 16798,
+            "stars": 16800,
             "topics": [
               "chess",
               "chess-engine",
@@ -230,7 +230,7 @@
             "open_issues": 47,
             "owner": "jhlywa",
             "repo": "chess.js",
-            "stars": 4413,
+            "stars": 4414,
             "topics": [
               "chess"
             ]
@@ -255,11 +255,11 @@
             "id": 3507455,
             "language": "Scala",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-03T04:21:00Z",
-            "open_issues": 1271,
+            "last_commit": "2026-10-03T13:51:31Z",
+            "open_issues": 1259,
             "owner": "lichess-org",
             "repo": "lila",
-            "stars": 18798,
+            "stars": 18799,
             "topics": [
               "chess",
               "free-software",
@@ -639,7 +639,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:35:26.516Z",
+    "last_updated": "2026-10-03T13:56:51.719Z",
     "original_repository_info": {
       "archived": false,
       "description": ":trophy: Awesome-Chess! :key: :lock: are you a chess player or chess enthusiast? ⭐",
