@@ -16,10 +16,10 @@
             "language": "C++",
             "license": "GPL-3.0",
             "last_commit": "2026-09-30T19:32:32Z",
-            "open_issues": 42,
+            "open_issues": 43,
             "owner": "official-stockfish",
             "repo": "Stockfish",
-            "stars": 16832,
+            "stars": 16833,
             "topics": [
               "chess",
               "chess-engine",
@@ -43,10 +43,10 @@
             "language": "C++",
             "license": "GPL-3.0",
             "last_commit": "2026-09-30T13:53:25Z",
-            "open_issues": 258,
+            "open_issues": 259,
             "owner": "LeelaChessZero",
             "repo": "lc0",
-            "stars": 3238,
+            "stars": 3239,
             "topics": [
               "alphazero",
               "alphazero-inspired",
@@ -255,8 +255,8 @@
             "id": 3507455,
             "language": "Scala",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-06T07:58:29Z",
-            "open_issues": 1261,
+            "last_commit": "2026-10-06T13:37:10Z",
+            "open_issues": 1262,
             "owner": "lichess-org",
             "repo": "lila",
             "stars": 18807,
@@ -639,7 +639,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:51:09.517Z",
+    "last_updated": "2026-10-06T15:28:57.541Z",
     "original_repository_info": {
       "archived": false,
       "description": ":trophy: Awesome-Chess! :key: :lock: are you a chess player or chess enthusiast? ⭐",
