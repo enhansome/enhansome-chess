@@ -15,11 +15,11 @@
             "id": 20976138,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-30T19:32:32Z",
-            "open_issues": 45,
+            "last_commit": "2026-10-10T14:23:31Z",
+            "open_issues": 40,
             "owner": "official-stockfish",
             "repo": "Stockfish",
-            "stars": 16868,
+            "stars": 16877,
             "topics": [
               "chess",
               "chess-engine",
@@ -42,8 +42,8 @@
             "id": 135489692,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-30T13:53:25Z",
-            "open_issues": 262,
+            "last_commit": "2026-10-10T11:02:45Z",
+            "open_issues": 264,
             "owner": "LeelaChessZero",
             "repo": "lc0",
             "stars": 3241,
@@ -230,7 +230,7 @@
             "open_issues": 47,
             "owner": "jhlywa",
             "repo": "chess.js",
-            "stars": 4417,
+            "stars": 4418,
             "topics": [
               "chess"
             ]
@@ -255,11 +255,11 @@
             "id": 3507455,
             "language": "Scala",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-09T15:20:34Z",
-            "open_issues": 1266,
+            "last_commit": "2026-10-10T12:36:48Z",
+            "open_issues": 1271,
             "owner": "lichess-org",
             "repo": "lila",
-            "stars": 18812,
+            "stars": 18813,
             "topics": [
               "chess",
               "free-software",
@@ -291,7 +291,7 @@
             "open_issues": 53,
             "owner": "niklasf",
             "repo": "python-chess",
-            "stars": 2888,
+            "stars": 2890,
             "topics": [
               "chess",
               "epd",
@@ -458,7 +458,7 @@
             "open_issues": 5,
             "owner": "Elucidation",
             "repo": "tensorflow_chessbot",
-            "stars": 567,
+            "stars": 566,
             "topics": [
               "chess",
               "chessboard",
@@ -639,7 +639,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T15:35:25.850Z",
+    "last_updated": "2026-10-10T14:47:53.446Z",
     "original_repository_info": {
       "archived": false,
       "description": ":trophy: Awesome-Chess! :key: :lock: are you a chess player or chess enthusiast? ⭐",
@@ -651,7 +651,7 @@
       "open_issues": 14,
       "owner": "mbiesiad",
       "repo": "awesome-chess",
-      "stars": 60,
+      "stars": 61,
       "topics": [
         "awesome",
         "awesome-list",
