@@ -38,7 +38,7 @@ A curated list of assets available on the Internet related to the Western chess.
 
 ## Chess engines
 
-* [Stockfish Chess Repo](https://github.com/official-stockfish/Stockfish) ⭐ 16,924 | 🐛 48 | 🌐 C++ | 📅 2026-10-13 - UCI chess engine. Repo on GitHub.
+* [Stockfish Chess Repo](https://github.com/official-stockfish/Stockfish) ⭐ 16,934 | 🐛 45 | 🌐 C++ | 📅 2026-10-17 - UCI chess engine. Repo on GitHub.
 * [Leela Chess Zero](https://github.com/LeelaChessZero/lc0) ⭐ 3,246 | 🐛 267 | 🌐 C++ | 📅 2026-10-10 - A free, open-source, and neural network-based chess engine and distributed computing project.
 * [Caissa](https://github.com/Witek902/Caissa) ⭐ 117 | 🐛 7 | 🌐 C++ | 📅 2026-10-14 - A strong, UCI command-line chess engine, written from scratch in C++ in development since early 2021. Optimized for regular chess, FRC (Fischer Random Chess) and DFRC (Double Fischer Random Chess).
 * [Stockfish Chess](https://stockfishchess.org/) - Strong open source chess engine.
@@ -53,7 +53,7 @@ A curated list of assets available on the Internet related to the Western chess.
 
 ## Books
 
-* [official-stockfish/books](https://github.com/official-stockfish/books) ⭐ 190 | 🐛 5 | 🌐 Python | 📅 2026-04-08 - Chess books used to develop Stockfish.
+* [official-stockfish/books](https://github.com/official-stockfish/books) ⭐ 191 | 🐛 5 | 🌐 Python | 📅 2026-10-16 - Chess books used to develop Stockfish.
 * [Chess Strategy](http://www.gutenberg.org/cache/epub/5614/pg5614-images.html) - The Project Gutenberg EBook of Chess Strategy, by Edward Lasker.
 
 ## Organizations
@@ -92,14 +92,14 @@ International:
 
 ## Move's validations
 
-* [chess.js](https://github.com/jhlywa/chess.js) ⭐ 4,428 | 🐛 47 | 🌐 TypeScript | 📅 2026-08-11 - A JavaScript chess library for chess move generation/validation, piece placement/movement, and check/checkmate/draw detection.
+* [chess.js](https://github.com/jhlywa/chess.js) ⭐ 4,429 | 🐛 47 | 🌐 TypeScript | 📅 2026-08-11 - A JavaScript chess library for chess move generation/validation, piece placement/movement, and check/checkmate/draw detection.
 * [node-chess](https://www.npmjs.com/package/chess) - An algebraic notation driven chess engine that can validate board position and produce a list of viable moves (notated).
 
 ## Projects
 
 Repos
 
-* [Lila](https://github.com/ornicar/lila) ⭐ 18,849 | 🐛 1,275 | 🌐 Scala | 📅 2026-10-16 - A free online chess game server focused on realtime gameplay and ease of use.
+* [Lila](https://github.com/ornicar/lila) ⭐ 18,851 | 🐛 1,286 | 🌐 Scala | 📅 2026-10-17 - A free online chess game server focused on realtime gameplay and ease of use.
 * [python-chess](https://github.com/niklasf/python-chess) ⭐ 2,892 | 🐛 53 | 🌐 Python | 📅 2026-08-22 - A chess library for Python, with move generation and validation, PGN parsing and writing, Polyglot opening book reading, Gaviota tablebase probing, Syzygy tablebase probing, and UCI/XBoard engine communication.
 * [Chess Alpha Zero](https://github.com/Zeta36/chess-alpha-zero) ⭐ 2,228 | 🐛 64 | 🌐 Jupyter Notebook | 📅 2023-03-24 - Chess reinforcement learning by AlphaGo Zero methods.
 * [Lichobile](https://github.com/veloce/lichobile) ⚠️ Archived - Lichess.org mobile application.
@@ -108,7 +108,7 @@ Repos
 * [Tensorflow\_chessbot](https://github.com/Elucidation/tensorflow_chessbot) ⭐ 567 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2023-07-25 - Predict chessboard FEN layouts from images using TensorFlow.
 * [Command Line Chess](https://github.com/marcusbuffett/command-line-chess) ⭐ 532 | 🐛 13 | 🌐 Python | 📅 2026-04-13 - A Python program to play chess against an AI in the terminal.
 * [Chess Encryption](https://github.com/WintrCat/chessencryption) ⭐ 446 | 🐛 4 | 🌐 Python | 📅 2026-01-13 - Project about encrypting files into large sets of Chess games stored in PGN format.
-* [WintrChess](https://github.com/WintrCat/wintrchess) ⭐ 262 | 🐛 31 | 🌐 TypeScript | 📅 2026-04-24 - A website that analyses Chess games with move classifications.
+* [WintrChess](https://github.com/WintrCat/wintrchess) ⭐ 263 | 🐛 31 | 🌐 TypeScript | 📅 2026-04-24 - A website that analyses Chess games with move classifications.
 * [FlutterChess](https://github.com/deven98/FlutterChess) ⭐ 52 | 🐛 2 | 🌐 Dart | 📅 2018-09-05 - A concept chess app for Flutter.
 * [angular-chess](https://github.com/theborakompanioni/angular-chess) ⚠️ Archived - Chess directive for AngularJS.
 * [angular-chessboard](https://github.com/theborakompanioni/angular-chessboard) ⚠️ Archived - Chessboard directive for AngularJS.
@@ -251,4 +251,4 @@ See [Code of Conduct](CODE-OF-CONDUCT.md).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
