@@ -15,11 +15,11 @@
             "id": 20976138,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-17T12:17:29Z",
-            "open_issues": 63,
+            "last_commit": "2026-10-24T18:55:44Z",
+            "open_issues": 52,
             "owner": "official-stockfish",
             "repo": "Stockfish",
-            "stars": 17078,
+            "stars": 17095,
             "topics": [
               "chess",
               "chess-engine",
@@ -42,11 +42,11 @@
             "id": 135489692,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-20T14:24:32Z",
-            "open_issues": 258,
+            "last_commit": "2026-10-24T16:36:03Z",
+            "open_issues": 259,
             "owner": "LeelaChessZero",
             "repo": "lc0",
-            "stars": 3256,
+            "stars": 3257,
             "topics": [
               "alphazero",
               "alphazero-inspired",
@@ -76,7 +76,7 @@
             "id": 350500044,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-21T19:20:00Z",
+            "last_commit": "2026-10-25T00:46:53Z",
             "open_issues": 7,
             "owner": "Witek902",
             "repo": "Caissa",
@@ -172,8 +172,8 @@
             "id": 17352988,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-03T15:23:03Z",
-            "open_issues": 5,
+            "last_commit": "2026-10-24T20:34:53Z",
+            "open_issues": 4,
             "owner": "laat",
             "repo": "chess-board",
             "stars": 21,
@@ -230,7 +230,7 @@
             "open_issues": 49,
             "owner": "jhlywa",
             "repo": "chess.js",
-            "stars": 4434,
+            "stars": 4435,
             "topics": [
               "chess"
             ]
@@ -255,11 +255,11 @@
             "id": 3507455,
             "language": "Scala",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-24T12:03:20Z",
+            "last_commit": "2026-10-25T11:01:50Z",
             "open_issues": 1290,
             "owner": "lichess-org",
             "repo": "lila",
-            "stars": 18883,
+            "stars": 18894,
             "topics": [
               "chess",
               "free-software",
@@ -349,7 +349,7 @@
             "open_issues": 694,
             "owner": "lichess-org",
             "repo": "lichobile",
-            "stars": 2184,
+            "stars": 2185,
             "topics": [
               "android",
               "android-sdk",
@@ -639,7 +639,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T12:56:31.324Z",
+    "last_updated": "2026-10-25T13:23:17.686Z",
     "original_repository_info": {
       "archived": false,
       "description": ":trophy: Awesome-Chess! :key: :lock: are you a chess player or chess enthusiast? ⭐",
