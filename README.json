@@ -16,10 +16,10 @@
             "language": "C++",
             "license": "GPL-3.0",
             "last_commit": "2026-10-28T06:05:27Z",
-            "open_issues": 51,
+            "open_issues": 54,
             "owner": "official-stockfish",
             "repo": "Stockfish",
-            "stars": 17134,
+            "stars": 17152,
             "topics": [
               "chess",
               "chess-engine",
@@ -43,10 +43,10 @@
             "language": "C++",
             "license": "GPL-3.0",
             "last_commit": "2026-10-24T16:36:03Z",
-            "open_issues": 260,
+            "open_issues": 261,
             "owner": "LeelaChessZero",
             "repo": "lc0",
-            "stars": 3260,
+            "stars": 3263,
             "topics": [
               "alphazero",
               "alphazero-inspired",
@@ -76,7 +76,7 @@
             "id": 350500044,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-25T00:46:53Z",
+            "last_commit": "2026-10-28T23:16:26Z",
             "open_issues": 8,
             "owner": "Witek902",
             "repo": "Caissa",
@@ -113,7 +113,7 @@
             "open_issues": 109,
             "owner": "oakmac",
             "repo": "chessboardjs",
-            "stars": 2131,
+            "stars": 2130,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:00.741Z"
@@ -230,7 +230,7 @@
             "open_issues": 50,
             "owner": "jhlywa",
             "repo": "chess.js",
-            "stars": 4439,
+            "stars": 4440,
             "topics": [
               "chess"
             ]
@@ -255,11 +255,11 @@
             "id": 3507455,
             "language": "Scala",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-28T11:02:02Z",
-            "open_issues": 1289,
+            "last_commit": "2026-10-29T11:09:34Z",
+            "open_issues": 1275,
             "owner": "lichess-org",
             "repo": "lila",
-            "stars": 18910,
+            "stars": 18922,
             "topics": [
               "chess",
               "free-software",
@@ -422,7 +422,7 @@
             "id": 30212992,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-27T12:39:59Z",
+            "last_commit": "2026-10-29T12:28:49Z",
             "open_issues": 84,
             "owner": "pychess",
             "repo": "pychess",
@@ -537,7 +537,7 @@
             "open_issues": 31,
             "owner": "WintrCat",
             "repo": "wintrchess",
-            "stars": 266,
+            "stars": 267,
             "topics": [
               "chess",
               "stockfish"
@@ -639,7 +639,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T15:30:01.304Z",
+    "last_updated": "2026-10-29T15:36:47.525Z",
     "original_repository_info": {
       "archived": false,
       "description": ":trophy: Awesome-Chess! :key: :lock: are you a chess player or chess enthusiast? ⭐",
