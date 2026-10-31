@@ -16,10 +16,10 @@
             "language": "C++",
             "license": "GPL-3.0",
             "last_commit": "2026-10-28T06:05:27Z",
-            "open_issues": 55,
+            "open_issues": 56,
             "owner": "official-stockfish",
             "repo": "Stockfish",
-            "stars": 17165,
+            "stars": 17179,
             "topics": [
               "chess",
               "chess-engine",
@@ -46,7 +46,7 @@
             "open_issues": 261,
             "owner": "LeelaChessZero",
             "repo": "lc0",
-            "stars": 3264,
+            "stars": 3266,
             "topics": [
               "alphazero",
               "alphazero-inspired",
@@ -80,7 +80,7 @@
             "open_issues": 8,
             "owner": "Witek902",
             "repo": "Caissa",
-            "stars": 119,
+            "stars": 120,
             "topics": [
               "ai",
               "chess",
@@ -113,7 +113,7 @@
             "open_issues": 109,
             "owner": "oakmac",
             "repo": "chessboardjs",
-            "stars": 2130,
+            "stars": 2128,
             "topics": []
           },
           "first_seen": "2026-08-28T20:26:00.741Z"
@@ -230,7 +230,7 @@
             "open_issues": 50,
             "owner": "jhlywa",
             "repo": "chess.js",
-            "stars": 4442,
+            "stars": 4441,
             "topics": [
               "chess"
             ]
@@ -255,11 +255,11 @@
             "id": 3507455,
             "language": "Scala",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-30T13:20:52Z",
-            "open_issues": 1280,
+            "last_commit": "2026-10-31T09:35:23Z",
+            "open_issues": 1294,
             "owner": "lichess-org",
             "repo": "lila",
-            "stars": 18928,
+            "stars": 18931,
             "topics": [
               "chess",
               "free-software",
@@ -288,7 +288,7 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2026-08-22T13:17:47Z",
-            "open_issues": 54,
+            "open_issues": 55,
             "owner": "niklasf",
             "repo": "python-chess",
             "stars": 2899,
@@ -422,11 +422,11 @@
             "id": 30212992,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-29T12:28:49Z",
+            "last_commit": "2026-10-31T09:26:17Z",
             "open_issues": 84,
             "owner": "pychess",
             "repo": "pychess",
-            "stars": 816,
+            "stars": 817,
             "topics": [
               "chess",
               "epd",
@@ -639,7 +639,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T15:21:46.597Z",
+    "last_updated": "2026-10-31T14:49:36.542Z",
     "original_repository_info": {
       "archived": false,
       "description": ":trophy: Awesome-Chess! :key: :lock: are you a chess player or chess enthusiast? ⭐",
