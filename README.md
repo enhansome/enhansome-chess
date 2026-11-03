@@ -38,8 +38,8 @@ A curated list of assets available on the Internet related to the Western chess.
 
 ## Chess engines
 
-* [Stockfish Chess Repo](https://github.com/official-stockfish/Stockfish) ⭐ 17,204 | 🐛 60 | 🌐 C++ | 📅 2026-10-28 - UCI chess engine. Repo on GitHub.
-* [Leela Chess Zero](https://github.com/LeelaChessZero/lc0) ⭐ 3,270 | 🐛 262 | 🌐 C++ | 📅 2026-10-24 - A free, open-source, and neural network-based chess engine and distributed computing project.
+* [Stockfish Chess Repo](https://github.com/official-stockfish/Stockfish) ⭐ 17,218 | 🐛 60 | 🌐 C++ | 📅 2026-10-28 - UCI chess engine. Repo on GitHub.
+* [Leela Chess Zero](https://github.com/LeelaChessZero/lc0) ⭐ 3,271 | 🐛 261 | 🌐 C++ | 📅 2026-11-03 - A free, open-source, and neural network-based chess engine and distributed computing project.
 * [Caissa](https://github.com/Witek902/Caissa) ⭐ 121 | 🐛 8 | 🌐 C++ | 📅 2026-11-01 - A strong, UCI command-line chess engine, written from scratch in C++ in development since early 2021. Optimized for regular chess, FRC (Fischer Random Chess) and DFRC (Double Fischer Random Chess).
 * [Stockfish Chess](https://stockfishchess.org/) - Strong open source chess engine.
 * [Fritz](https://fritz.chessbase.com/) - A German chess program originally developed for ChessBase by Frans Morsch based on his Quest program, ported to DOS, and then Windows by Mathias Feist.
@@ -78,7 +78,7 @@ International:
 
 ## Chess boards
 
-* [chessboardjs](https://github.com/oakmac/chessboardjs/) ⭐ 2,128 | 🐛 109 | 🌐 JavaScript | 📅 2024-04-17 - JavaScript chessboard, repo on GitHub.
+* [chessboardjs](https://github.com/oakmac/chessboardjs/) ⭐ 2,127 | 🐛 109 | 🌐 JavaScript | 📅 2024-04-17 - JavaScript chessboard, repo on GitHub.
 * [jchess](https://github.com/bmarini/jchess) ⭐ 83 | 🐛 9 | 🌐 TypeScript | 📅 2026-04-07 - A jQuery-based JavaScript library for parsing and displaying chess games, repo on GitHub.
 * [chessboard-js](https://github.com/caustique/chessboard-js) ⭐ 38 | 🐛 7 | 🌐 JavaScript | 📅 2018-08-13 - Repo on GitHub, responsive mobile-first JavaScript chessboard library.
 * [chess-board](https://github.com/laat/chess-board) ⭐ 21 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-31 - A web component for displaying chess positions, repo on GitHub.
@@ -99,12 +99,12 @@ International:
 
 Repos
 
-* [Lila](https://github.com/ornicar/lila) ⭐ 18,937 | 🐛 1,275 | 🌐 Scala | 📅 2026-11-02 - A free online chess game server focused on realtime gameplay and ease of use.
+* [Lila](https://github.com/ornicar/lila) ⭐ 18,941 | 🐛 1,276 | 🌐 Scala | 📅 2026-11-03 - A free online chess game server focused on realtime gameplay and ease of use.
 * [python-chess](https://github.com/niklasf/python-chess) ⭐ 2,900 | 🐛 55 | 🌐 Python | 📅 2026-08-22 - A chess library for Python, with move generation and validation, PGN parsing and writing, Polyglot opening book reading, Gaviota tablebase probing, Syzygy tablebase probing, and UCI/XBoard engine communication.
 * [Chess Alpha Zero](https://github.com/Zeta36/chess-alpha-zero) ⭐ 2,227 | 🐛 63 | 🌐 Jupyter Notebook | 📅 2023-03-24 - Chess reinforcement learning by AlphaGo Zero methods.
 * [Lichobile](https://github.com/veloce/lichobile) ⚠️ Archived - Lichess.org mobile application.
 * [Game Server](https://github.com/jzyong/game-server) ⭐ 1,229 | 🐛 40 | 🌐 Java | 📅 2025-12-19 - Distributed Java game server, including cluster management server, gateway server, hall server, game logic server, background monitoring server and a running web version of fishing. State machine, behavior tree, A\* pathfinding, navigation mesh and other AI tools.
-* [PyChess](https://github.com/pychess/pychess) ⭐ 817 | 🐛 84 | 🌐 Python | 📅 2026-11-02 - A chess client for Linux/Windows.
+* [PyChess](https://github.com/pychess/pychess) ⭐ 818 | 🐛 84 | 🌐 Python | 📅 2026-11-03 - A chess client for Linux/Windows.
 * [Tensorflow\_chessbot](https://github.com/Elucidation/tensorflow_chessbot) ⭐ 567 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2023-07-25 - Predict chessboard FEN layouts from images using TensorFlow.
 * [Command Line Chess](https://github.com/marcusbuffett/command-line-chess) ⭐ 534 | 🐛 13 | 🌐 Python | 📅 2026-04-13 - A Python program to play chess against an AI in the terminal.
 * [Chess Encryption](https://github.com/WintrCat/chessencryption) ⭐ 446 | 🐛 4 | 🌐 Python | 📅 2026-01-13 - Project about encrypting files into large sets of Chess games stored in PGN format.
@@ -251,4 +251,4 @@ See [Code of Conduct](CODE-OF-CONDUCT.md).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
