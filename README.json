@@ -16,10 +16,10 @@
             "language": "C++",
             "license": "GPL-3.0",
             "last_commit": "2026-10-28T06:05:27Z",
-            "open_issues": 62,
+            "open_issues": 64,
             "owner": "official-stockfish",
             "repo": "Stockfish",
-            "stars": 17236,
+            "stars": 17255,
             "topics": [
               "chess",
               "chess-engine",
@@ -230,7 +230,7 @@
             "open_issues": 52,
             "owner": "jhlywa",
             "repo": "chess.js",
-            "stars": 4447,
+            "stars": 4448,
             "topics": [
               "chess"
             ]
@@ -255,11 +255,11 @@
             "id": 3507455,
             "language": "Scala",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-04T14:29:23Z",
-            "open_issues": 1275,
+            "last_commit": "2026-11-05T07:32:50Z",
+            "open_issues": 1279,
             "owner": "lichess-org",
             "repo": "lila",
-            "stars": 18943,
+            "stars": 18945,
             "topics": [
               "chess",
               "free-software",
@@ -291,7 +291,7 @@
             "open_issues": 55,
             "owner": "niklasf",
             "repo": "python-chess",
-            "stars": 2902,
+            "stars": 2903,
             "topics": [
               "chess",
               "epd",
@@ -387,7 +387,7 @@
             "open_issues": 40,
             "owner": "jzyong",
             "repo": "game-server",
-            "stars": 1229,
+            "stars": 1228,
             "topics": [
               "ai",
               "astar-algorithm",
@@ -422,11 +422,11 @@
             "id": 30212992,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-03T12:44:59Z",
+            "last_commit": "2026-11-05T14:21:26Z",
             "open_issues": 84,
             "owner": "pychess",
             "repo": "pychess",
-            "stars": 818,
+            "stars": 817,
             "topics": [
               "chess",
               "epd",
@@ -639,7 +639,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T16:37:15.193Z",
+    "last_updated": "2026-11-05T16:52:44.951Z",
     "original_repository_info": {
       "archived": false,
       "description": ":trophy: Awesome-Chess! :key: :lock: are you a chess player or chess enthusiast? ⭐",
