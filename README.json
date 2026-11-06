@@ -15,11 +15,11 @@
             "id": 20976138,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-28T06:05:27Z",
-            "open_issues": 64,
+            "last_commit": "2026-11-06T16:04:32Z",
+            "open_issues": 55,
             "owner": "official-stockfish",
             "repo": "Stockfish",
-            "stars": 17255,
+            "stars": 17270,
             "topics": [
               "chess",
               "chess-engine",
@@ -46,7 +46,7 @@
             "open_issues": 261,
             "owner": "LeelaChessZero",
             "repo": "lc0",
-            "stars": 3270,
+            "stars": 3272,
             "topics": [
               "alphazero",
               "alphazero-inspired",
@@ -255,11 +255,11 @@
             "id": 3507455,
             "language": "Scala",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-05T07:32:50Z",
-            "open_issues": 1279,
+            "last_commit": "2026-11-06T15:02:16Z",
+            "open_issues": 1284,
             "owner": "lichess-org",
             "repo": "lila",
-            "stars": 18945,
+            "stars": 18949,
             "topics": [
               "chess",
               "free-software",
@@ -426,7 +426,7 @@
             "open_issues": 84,
             "owner": "pychess",
             "repo": "pychess",
-            "stars": 817,
+            "stars": 816,
             "topics": [
               "chess",
               "epd",
@@ -512,7 +512,7 @@
             "open_issues": 4,
             "owner": "WintrCat",
             "repo": "chessencryption",
-            "stars": 446,
+            "stars": 445,
             "topics": [
               "chess",
               "cloudstorage",
@@ -639,7 +639,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T16:52:44.951Z",
+    "last_updated": "2026-11-06T16:20:04.515Z",
     "original_repository_info": {
       "archived": false,
       "description": ":trophy: Awesome-Chess! :key: :lock: are you a chess player or chess enthusiast? ⭐",
