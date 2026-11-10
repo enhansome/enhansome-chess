@@ -15,11 +15,11 @@
             "id": 20976138,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-06T16:04:32Z",
-            "open_issues": 59,
+            "last_commit": "2026-11-09T21:57:53Z",
+            "open_issues": 53,
             "owner": "official-stockfish",
             "repo": "Stockfish",
-            "stars": 17307,
+            "stars": 17322,
             "topics": [
               "chess",
               "chess-engine",
@@ -46,7 +46,7 @@
             "open_issues": 263,
             "owner": "LeelaChessZero",
             "repo": "lc0",
-            "stars": 3276,
+            "stars": 3277,
             "topics": [
               "alphazero",
               "alphazero-inspired",
@@ -230,7 +230,7 @@
             "open_issues": 54,
             "owner": "jhlywa",
             "repo": "chess.js",
-            "stars": 4452,
+            "stars": 4453,
             "topics": [
               "chess"
             ]
@@ -255,11 +255,11 @@
             "id": 3507455,
             "language": "Scala",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-09T17:33:31Z",
-            "open_issues": 1272,
+            "last_commit": "2026-11-10T16:16:32Z",
+            "open_issues": 1274,
             "owner": "lichess-org",
             "repo": "lila",
-            "stars": 18961,
+            "stars": 18962,
             "topics": [
               "chess",
               "free-software",
@@ -291,7 +291,7 @@
             "open_issues": 55,
             "owner": "niklasf",
             "repo": "python-chess",
-            "stars": 2902,
+            "stars": 2904,
             "topics": [
               "chess",
               "epd",
@@ -487,7 +487,7 @@
             "open_issues": 13,
             "owner": "marcusbuffett",
             "repo": "command-line-chess",
-            "stars": 534,
+            "stars": 535,
             "topics": [
               "chess",
               "hacktoberfest",
@@ -639,7 +639,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T19:13:04.935Z",
+    "last_updated": "2026-11-10T16:37:28.526Z",
     "original_repository_info": {
       "archived": false,
       "description": ":trophy: Awesome-Chess! :key: :lock: are you a chess player or chess enthusiast? ⭐",
